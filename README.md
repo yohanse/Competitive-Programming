@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1080-camelcase-matching](https://github.com/yohanse/Competitive-Programming/tree/master/1080-camelcase-matching) |
+| [1288-maximum-subarray-sum-with-one-deletion](https://github.com/yohanse/Competitive-Programming/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1293-three-consecutive-odds](https://github.com/yohanse/Competitive-Programming/tree/master/1293-three-consecutive-odds) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/yohanse/Competitive-Programming/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/yohanse/Competitive-Programming/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/yohanse/Competitive-Programming/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1288-maximum-subarray-sum-with-one-deletion](https://github.com/yohanse/Competitive-Programming/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 <!---LeetCode Topics End-->

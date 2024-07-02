@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/yohanse/Competitive-Programming/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/yohanse/Competitive-Programming/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/yohanse/Competitive-Programming/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yohanse/Competitive-Programming/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,8 +82,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/yohanse/Competitive-Programming/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yohanse/Competitive-Programming/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Math
 |  |
 | ------- |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/yohanse/Competitive-Programming/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+## Simulation
+|  |
+| ------- |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yohanse/Competitive-Programming/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 <!---LeetCode Topics End-->

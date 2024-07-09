@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/yohanse/Competitive-Programming/tree/master/0686-repeated-string-match) |
 | [1080-camelcase-matching](https://github.com/yohanse/Competitive-Programming/tree/master/1080-camelcase-matching) |
 | [1508-longest-happy-prefix](https://github.com/yohanse/Competitive-Programming/tree/master/1508-longest-happy-prefix) |
+| [2001-jump-game-vii](https://github.com/yohanse/Competitive-Programming/tree/master/2001-jump-game-vii) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/yohanse/Competitive-Programming/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2444-longest-ideal-subsequence](https://github.com/yohanse/Competitive-Programming/tree/master/2444-longest-ideal-subsequence) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/yohanse/Competitive-Programming/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/yohanse/Competitive-Programming/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
+| [2001-jump-game-vii](https://github.com/yohanse/Competitive-Programming/tree/master/2001-jump-game-vii) |
 | [2444-longest-ideal-subsequence](https://github.com/yohanse/Competitive-Programming/tree/master/2444-longest-ideal-subsequence) |
 ## Hash Table
 |  |
@@ -112,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/yohanse/Competitive-Programming/tree/master/0201-bitwise-and-of-numbers-range) |
+## Sliding Window
+|  |
+| ------- |
+| [2001-jump-game-vii](https://github.com/yohanse/Competitive-Programming/tree/master/2001-jump-game-vii) |
+## Prefix Sum
+|  |
+| ------- |
+| [2001-jump-game-vii](https://github.com/yohanse/Competitive-Programming/tree/master/2001-jump-game-vii) |
 <!---LeetCode Topics End-->

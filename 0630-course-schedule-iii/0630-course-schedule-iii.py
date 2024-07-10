@@ -1,18 +1,15 @@
 class Solution:
     def scheduleCourse(self, courses: List[List[int]]) -> int:
         courses = sorted(courses, key = lambda x : x[1])
-        num = []
-        time = 0
+        heap, time = [], 0
         for duration, lastday in courses:
             if time + duration <= lastday:
-                heappush(num, -duration)
+                heappush(heap, -duration)
                 time += duration
-            else:
-                if num:
-                    x = -heappop(num)
-                    if x > duration and time - x + duration <= lastday:
-                        heappush(num, -duration)
-                        time = time - x + duration
-                    else:
-                        heappush(num, -x)
-        return len(num) 
+           
+            elif heap and heap[0] + duration < 0 and time + heap[0] + duration <= lastday:
+                time = time + heap[0] + duration
+                heappop(heap)
+                heappush(heap, -duration)
+                
+        return len(heap) 

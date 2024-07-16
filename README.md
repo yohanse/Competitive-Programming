@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yohanse/Competitive-Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/yohanse/Competitive-Programming/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/yohanse/Competitive-Programming/tree/master/0686-repeated-string-match) |
+| [0768-partition-labels](https://github.com/yohanse/Competitive-Programming/tree/master/0768-partition-labels) |
 | [1080-camelcase-matching](https://github.com/yohanse/Competitive-Programming/tree/master/1080-camelcase-matching) |
 | [1508-longest-happy-prefix](https://github.com/yohanse/Competitive-Programming/tree/master/1508-longest-happy-prefix) |
 | [2001-jump-game-vii](https://github.com/yohanse/Competitive-Programming/tree/master/2001-jump-game-vii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yohanse/Competitive-Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0768-partition-labels](https://github.com/yohanse/Competitive-Programming/tree/master/0768-partition-labels) |
 | [1080-camelcase-matching](https://github.com/yohanse/Competitive-Programming/tree/master/1080-camelcase-matching) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/yohanse/Competitive-Programming/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/yohanse/Competitive-Programming/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0630-course-schedule-iii](https://github.com/yohanse/Competitive-Programming/tree/master/0630-course-schedule-iii) |
+| [0768-partition-labels](https://github.com/yohanse/Competitive-Programming/tree/master/0768-partition-labels) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/yohanse/Competitive-Programming/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1794-minimize-deviation-in-array](https://github.com/yohanse/Competitive-Programming/tree/master/1794-minimize-deviation-in-array) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/yohanse/Competitive-Programming/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/yohanse/Competitive-Programming/tree/master/0128-longest-consecutive-sequence) |
+| [0768-partition-labels](https://github.com/yohanse/Competitive-Programming/tree/master/0768-partition-labels) |
 | [0833-bus-routes](https://github.com/yohanse/Competitive-Programming/tree/master/0833-bus-routes) |
 | [2444-longest-ideal-subsequence](https://github.com/yohanse/Competitive-Programming/tree/master/2444-longest-ideal-subsequence) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/yohanse/Competitive-Programming/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |

@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/yohanse/Competitive-Programming/tree/master/1293-three-consecutive-odds) |
 | [1794-minimize-deviation-in-array](https://github.com/yohanse/Competitive-Programming/tree/master/1794-minimize-deviation-in-array) |
 | [1803-average-waiting-time](https://github.com/yohanse/Competitive-Programming/tree/master/1803-average-waiting-time) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/yohanse/Competitive-Programming/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/yohanse/Competitive-Programming/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/yohanse/Competitive-Programming/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/yohanse/Competitive-Programming/tree/master/2423-minimum-deletions-to-make-array-divisible) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/yohanse/Competitive-Programming/tree/master/0768-partition-labels) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/yohanse/Competitive-Programming/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1794-minimize-deviation-in-array](https://github.com/yohanse/Competitive-Programming/tree/master/1794-minimize-deviation-in-array) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/yohanse/Competitive-Programming/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/yohanse/Competitive-Programming/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/yohanse/Competitive-Programming/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2636-maximum-subsequence-score](https://github.com/yohanse/Competitive-Programming/tree/master/2636-maximum-subsequence-score) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/yohanse/Competitive-Programming/tree/master/0128-longest-consecutive-sequence) |
 | [0768-partition-labels](https://github.com/yohanse/Competitive-Programming/tree/master/0768-partition-labels) |
 | [0833-bus-routes](https://github.com/yohanse/Competitive-Programming/tree/master/0833-bus-routes) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/yohanse/Competitive-Programming/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2444-longest-ideal-subsequence](https://github.com/yohanse/Competitive-Programming/tree/master/2444-longest-ideal-subsequence) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/yohanse/Competitive-Programming/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3265-maximum-good-subarray-sum](https://github.com/yohanse/Competitive-Programming/tree/master/3265-maximum-good-subarray-sum) |

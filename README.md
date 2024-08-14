@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/yohanse/Competitive-Programming/tree/master/0330-patching-array) |
 | [0518-coin-change-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0518-coin-change-ii) |
 | [0630-course-schedule-iii](https://github.com/yohanse/Competitive-Programming/tree/master/0630-course-schedule-iii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/yohanse/Competitive-Programming/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0833-bus-routes](https://github.com/yohanse/Competitive-Programming/tree/master/0833-bus-routes) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/yohanse/Competitive-Programming/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/yohanse/Competitive-Programming/tree/master/0895-shortest-path-to-get-all-keys) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yohanse/Competitive-Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/yohanse/Competitive-Programming/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/yohanse/Competitive-Programming/tree/master/0768-partition-labels) |
 | [1080-camelcase-matching](https://github.com/yohanse/Competitive-Programming/tree/master/1080-camelcase-matching) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/yohanse/Competitive-Programming/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/yohanse/Competitive-Programming/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1307-ugly-number-iii](https://github.com/yohanse/Competitive-Programming/tree/master/1307-ugly-number-iii) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/yohanse/Competitive-Programming/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/yohanse/Competitive-Programming/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0630-course-schedule-iii](https://github.com/yohanse/Competitive-Programming/tree/master/0630-course-schedule-iii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/yohanse/Competitive-Programming/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/yohanse/Competitive-Programming/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/yohanse/Competitive-Programming/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yohanse/Competitive-Programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |

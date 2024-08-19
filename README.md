@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1080-camelcase-matching](https://github.com/yohanse/Competitive-Programming/tree/master/1080-camelcase-matching) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/yohanse/Competitive-Programming/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1293-three-consecutive-odds](https://github.com/yohanse/Competitive-Programming/tree/master/1293-three-consecutive-odds) |
+| [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/yohanse/Competitive-Programming/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1582-design-browser-history](https://github.com/yohanse/Competitive-Programming/tree/master/1582-design-browser-history) |
 | [1794-minimize-deviation-in-array](https://github.com/yohanse/Competitive-Programming/tree/master/1794-minimize-deviation-in-array) |
 | [1803-average-waiting-time](https://github.com/yohanse/Competitive-Programming/tree/master/1803-average-waiting-time) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yohanse/Competitive-Programming/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1307-ugly-number-iii](https://github.com/yohanse/Competitive-Programming/tree/master/1307-ugly-number-iii) |
+| [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/yohanse/Competitive-Programming/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/yohanse/Competitive-Programming/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/yohanse/Competitive-Programming/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Dynamic Programming
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/yohanse/Competitive-Programming/tree/master/0023-merge-k-sorted-lists) |
 | [0630-course-schedule-iii](https://github.com/yohanse/Competitive-Programming/tree/master/0630-course-schedule-iii) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/yohanse/Competitive-Programming/tree/master/0887-minimum-cost-to-hire-k-workers) |
+| [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/yohanse/Competitive-Programming/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1794-minimize-deviation-in-array](https://github.com/yohanse/Competitive-Programming/tree/master/1794-minimize-deviation-in-array) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/yohanse/Competitive-Programming/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yohanse/Competitive-Programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/yohanse/Competitive-Programming/tree/master/0174-dungeon-game) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/yohanse/Competitive-Programming/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0967-minimum-falling-path-sum](https://github.com/yohanse/Competitive-Programming/tree/master/0967-minimum-falling-path-sum) |
+| [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/yohanse/Competitive-Programming/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 ## Linked List
 |  |
 | ------- |

@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0518-coin-change-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/yohanse/Competitive-Programming/tree/master/0967-minimum-falling-path-sum) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/yohanse/Competitive-Programming/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
+| [1617-stone-game-iv](https://github.com/yohanse/Competitive-Programming/tree/master/1617-stone-game-iv) |
 | [2001-jump-game-vii](https://github.com/yohanse/Competitive-Programming/tree/master/2001-jump-game-vii) |
 | [2444-longest-ideal-subsequence](https://github.com/yohanse/Competitive-Programming/tree/master/2444-longest-ideal-subsequence) |
 | [2848-special-permutations](https://github.com/yohanse/Competitive-Programming/tree/master/2848-special-permutations) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0464-can-i-win](https://github.com/yohanse/Competitive-Programming/tree/master/0464-can-i-win) |
 | [1307-ugly-number-iii](https://github.com/yohanse/Competitive-Programming/tree/master/1307-ugly-number-iii) |
+| [1617-stone-game-iv](https://github.com/yohanse/Competitive-Programming/tree/master/1617-stone-game-iv) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/yohanse/Competitive-Programming/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/yohanse/Competitive-Programming/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/yohanse/Competitive-Programming/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -273,4 +275,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/yohanse/Competitive-Programming/tree/master/0464-can-i-win) |
+| [1617-stone-game-iv](https://github.com/yohanse/Competitive-Programming/tree/master/1617-stone-game-iv) |
 <!---LeetCode Topics End-->

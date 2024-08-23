@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/yohanse/Competitive-Programming/tree/master/0051-n-queens) |
 | [0128-longest-consecutive-sequence](https://github.com/yohanse/Competitive-Programming/tree/master/0128-longest-consecutive-sequence) |
 | [0174-dungeon-game](https://github.com/yohanse/Competitive-Programming/tree/master/0174-dungeon-game) |
+| [0304-range-sum-query-2d-immutable](https://github.com/yohanse/Competitive-Programming/tree/master/0304-range-sum-query-2d-immutable) |
 | [0330-patching-array](https://github.com/yohanse/Competitive-Programming/tree/master/0330-patching-array) |
 | [0518-coin-change-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0518-coin-change-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/yohanse/Competitive-Programming/tree/master/0624-maximum-distance-in-arrays) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/yohanse/Competitive-Programming/tree/master/0304-range-sum-query-2d-immutable) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/yohanse/Competitive-Programming/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2001-jump-game-vii](https://github.com/yohanse/Competitive-Programming/tree/master/2001-jump-game-vii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yohanse/Competitive-Programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/yohanse/Competitive-Programming/tree/master/0037-sudoku-solver) |
 | [0174-dungeon-game](https://github.com/yohanse/Competitive-Programming/tree/master/0174-dungeon-game) |
+| [0304-range-sum-query-2d-immutable](https://github.com/yohanse/Competitive-Programming/tree/master/0304-range-sum-query-2d-immutable) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/yohanse/Competitive-Programming/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0967-minimum-falling-path-sum](https://github.com/yohanse/Competitive-Programming/tree/master/0967-minimum-falling-path-sum) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/yohanse/Competitive-Programming/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/yohanse/Competitive-Programming/tree/master/0304-range-sum-query-2d-immutable) |
 | [1582-design-browser-history](https://github.com/yohanse/Competitive-Programming/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
 |  |

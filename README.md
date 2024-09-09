@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0372-super-pow](https://github.com/yohanse/Competitive-Programming/tree/master/0372-super-pow) |
 | [0464-can-i-win](https://github.com/yohanse/Competitive-Programming/tree/master/0464-can-i-win) |
 | [0593-valid-square](https://github.com/yohanse/Competitive-Programming/tree/master/0593-valid-square) |
 | [0903-implement-rand10-using-rand7](https://github.com/yohanse/Competitive-Programming/tree/master/0903-implement-rand10-using-rand7) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yohanse/Competitive-Programming/tree/master/0023-merge-k-sorted-lists) |
+| [0372-super-pow](https://github.com/yohanse/Competitive-Programming/tree/master/0372-super-pow) |
 ## Merge Sort
 |  |
 | ------- |

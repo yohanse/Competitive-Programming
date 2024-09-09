@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/yohanse/Competitive-Programming/tree/master/1803-average-waiting-time) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/yohanse/Competitive-Programming/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/yohanse/Competitive-Programming/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
+| [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/yohanse/Competitive-Programming/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/yohanse/Competitive-Programming/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/yohanse/Competitive-Programming/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/yohanse/Competitive-Programming/tree/master/2450-minimum-replacements-to-sort-the-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/yohanse/Competitive-Programming/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1617-stone-game-iv](https://github.com/yohanse/Competitive-Programming/tree/master/1617-stone-game-iv) |
 | [2001-jump-game-vii](https://github.com/yohanse/Competitive-Programming/tree/master/2001-jump-game-vii) |
+| [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/yohanse/Competitive-Programming/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2115-number-of-unique-good-subsequences](https://github.com/yohanse/Competitive-Programming/tree/master/2115-number-of-unique-good-subsequences) |
 | [2444-longest-ideal-subsequence](https://github.com/yohanse/Competitive-Programming/tree/master/2444-longest-ideal-subsequence) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/yohanse/Competitive-Programming/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/yohanse/Competitive-Programming/tree/master/0967-minimum-falling-path-sum) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/yohanse/Competitive-Programming/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/yohanse/Competitive-Programming/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
+| [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/yohanse/Competitive-Programming/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 ## Linked List
 |  |
 | ------- |

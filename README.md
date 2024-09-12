@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3047-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/yohanse/Competitive-Programming/tree/master/3047-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [3265-maximum-good-subarray-sum](https://github.com/yohanse/Competitive-Programming/tree/master/3265-maximum-good-subarray-sum) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/yohanse/Competitive-Programming/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yohanse/Competitive-Programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yohanse/Competitive-Programming/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Two Pointers
 |  |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1803-average-waiting-time](https://github.com/yohanse/Competitive-Programming/tree/master/1803-average-waiting-time) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yohanse/Competitive-Programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yohanse/Competitive-Programming/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Breadth-First Search
 |  |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/yohanse/Competitive-Programming/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yohanse/Competitive-Programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2636-maximum-subsequence-score](https://github.com/yohanse/Competitive-Programming/tree/master/2636-maximum-subsequence-score) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yohanse/Competitive-Programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Number Theory
 |  |
 | ------- |

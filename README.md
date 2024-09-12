@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/yohanse/Competitive-Programming/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1140-distant-barcodes](https://github.com/yohanse/Competitive-Programming/tree/master/1140-distant-barcodes) |
+| [1334-sum-of-numbers-with-units-digit-k](https://github.com/yohanse/Competitive-Programming/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/yohanse/Competitive-Programming/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1794-minimize-deviation-in-array](https://github.com/yohanse/Competitive-Programming/tree/master/1794-minimize-deviation-in-array) |
 | [1804-maximum-binary-string-after-change](https://github.com/yohanse/Competitive-Programming/tree/master/1804-maximum-binary-string-after-change) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0518-coin-change-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/yohanse/Competitive-Programming/tree/master/0967-minimum-falling-path-sum) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/yohanse/Competitive-Programming/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
+| [1334-sum-of-numbers-with-units-digit-k](https://github.com/yohanse/Competitive-Programming/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [1617-stone-game-iv](https://github.com/yohanse/Competitive-Programming/tree/master/1617-stone-game-iv) |
 | [2001-jump-game-vii](https://github.com/yohanse/Competitive-Programming/tree/master/2001-jump-game-vii) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/yohanse/Competitive-Programming/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0593-valid-square](https://github.com/yohanse/Competitive-Programming/tree/master/0593-valid-square) |
 | [0903-implement-rand10-using-rand7](https://github.com/yohanse/Competitive-Programming/tree/master/0903-implement-rand10-using-rand7) |
 | [1307-ugly-number-iii](https://github.com/yohanse/Competitive-Programming/tree/master/1307-ugly-number-iii) |
+| [1334-sum-of-numbers-with-units-digit-k](https://github.com/yohanse/Competitive-Programming/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [1617-stone-game-iv](https://github.com/yohanse/Competitive-Programming/tree/master/1617-stone-game-iv) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/yohanse/Competitive-Programming/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/yohanse/Competitive-Programming/tree/master/2450-minimum-replacements-to-sort-the-array) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1334-sum-of-numbers-with-units-digit-k](https://github.com/yohanse/Competitive-Programming/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [3201-distribute-candies-among-children-ii](https://github.com/yohanse/Competitive-Programming/tree/master/3201-distribute-candies-among-children-ii) |
 ## Recursion
 |  |

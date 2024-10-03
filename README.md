@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/yohanse/Competitive-Programming/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yohanse/Competitive-Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/yohanse/Competitive-Programming/tree/master/0032-longest-valid-parentheses) |
 | [0132-palindrome-partitioning-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0132-palindrome-partitioning-ii) |
 | [0214-shortest-palindrome](https://github.com/yohanse/Competitive-Programming/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/yohanse/Competitive-Programming/tree/master/0686-repeated-string-match) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/yohanse/Competitive-Programming/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/yohanse/Competitive-Programming/tree/master/0085-maximal-rectangle) |
 | [0132-palindrome-partitioning-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0132-palindrome-partitioning-ii) |
 | [0174-dungeon-game](https://github.com/yohanse/Competitive-Programming/tree/master/0174-dungeon-game) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/yohanse/Competitive-Programming/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/yohanse/Competitive-Programming/tree/master/0085-maximal-rectangle) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [1582-design-browser-history](https://github.com/yohanse/Competitive-Programming/tree/master/1582-design-browser-history) |

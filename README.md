@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3265-maximum-good-subarray-sum](https://github.com/yohanse/Competitive-Programming/tree/master/3265-maximum-good-subarray-sum) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/yohanse/Competitive-Programming/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yohanse/Competitive-Programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3391-maximum-difference-score-in-a-grid](https://github.com/yohanse/Competitive-Programming/tree/master/3391-maximum-difference-score-in-a-grid) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yohanse/Competitive-Programming/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Two Pointers
 |  |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/yohanse/Competitive-Programming/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2848-special-permutations](https://github.com/yohanse/Competitive-Programming/tree/master/2848-special-permutations) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/yohanse/Competitive-Programming/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
+| [3391-maximum-difference-score-in-a-grid](https://github.com/yohanse/Competitive-Programming/tree/master/3391-maximum-difference-score-in-a-grid) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/yohanse/Competitive-Programming/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
 |  |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/yohanse/Competitive-Programming/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/yohanse/Competitive-Programming/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/yohanse/Competitive-Programming/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
+| [3391-maximum-difference-score-in-a-grid](https://github.com/yohanse/Competitive-Programming/tree/master/3391-maximum-difference-score-in-a-grid) |
 ## Linked List
 |  |
 | ------- |

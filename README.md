@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/yohanse/Competitive-Programming/tree/master/2665-minimum-time-to-repair-cars) |
 | [2848-special-permutations](https://github.com/yohanse/Competitive-Programming/tree/master/2848-special-permutations) |
 | [3047-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/yohanse/Competitive-Programming/tree/master/3047-maximum-element-sum-of-a-complete-subset-of-indices) |
+| [3209-minimum-number-of-coins-for-fruits](https://github.com/yohanse/Competitive-Programming/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/yohanse/Competitive-Programming/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3265-maximum-good-subarray-sum](https://github.com/yohanse/Competitive-Programming/tree/master/3265-maximum-good-subarray-sum) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/yohanse/Competitive-Programming/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/yohanse/Competitive-Programming/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2848-special-permutations](https://github.com/yohanse/Competitive-Programming/tree/master/2848-special-permutations) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/yohanse/Competitive-Programming/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
+| [3209-minimum-number-of-coins-for-fruits](https://github.com/yohanse/Competitive-Programming/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/yohanse/Competitive-Programming/tree/master/3391-maximum-difference-score-in-a-grid) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/yohanse/Competitive-Programming/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/yohanse/Competitive-Programming/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yohanse/Competitive-Programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2636-maximum-subsequence-score](https://github.com/yohanse/Competitive-Programming/tree/master/2636-maximum-subsequence-score) |
+| [3209-minimum-number-of-coins-for-fruits](https://github.com/yohanse/Competitive-Programming/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yohanse/Competitive-Programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Number Theory
 |  |
@@ -385,11 +388,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/yohanse/Competitive-Programming/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1622-max-value-of-equation](https://github.com/yohanse/Competitive-Programming/tree/master/1622-max-value-of-equation) |
+| [3209-minimum-number-of-coins-for-fruits](https://github.com/yohanse/Competitive-Programming/tree/master/3209-minimum-number-of-coins-for-fruits) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/yohanse/Competitive-Programming/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1622-max-value-of-equation](https://github.com/yohanse/Competitive-Programming/tree/master/1622-max-value-of-equation) |
+| [3209-minimum-number-of-coins-for-fruits](https://github.com/yohanse/Competitive-Programming/tree/master/3209-minimum-number-of-coins-for-fruits) |
 ## Monotonic Stack
 |  |
 | ------- |

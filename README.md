@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/yohanse/Competitive-Programming/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/yohanse/Competitive-Programming/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/yohanse/Competitive-Programming/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
+| [3395-minimum-length-of-anagram-concatenation](https://github.com/yohanse/Competitive-Programming/tree/master/3395-minimum-length-of-anagram-concatenation) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/yohanse/Competitive-Programming/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Rolling Hash
 |  |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/yohanse/Competitive-Programming/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3265-maximum-good-subarray-sum](https://github.com/yohanse/Competitive-Programming/tree/master/3265-maximum-good-subarray-sum) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/yohanse/Competitive-Programming/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3395-minimum-length-of-anagram-concatenation](https://github.com/yohanse/Competitive-Programming/tree/master/3395-minimum-length-of-anagram-concatenation) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yohanse/Competitive-Programming/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Math
 |  |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-distant-barcodes](https://github.com/yohanse/Competitive-Programming/tree/master/1140-distant-barcodes) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/yohanse/Competitive-Programming/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3395-minimum-length-of-anagram-concatenation](https://github.com/yohanse/Competitive-Programming/tree/master/3395-minimum-length-of-anagram-concatenation) |
 ## Backtracking
 |  |
 | ------- |

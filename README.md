@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/yohanse/Competitive-Programming/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/yohanse/Competitive-Programming/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yohanse/Competitive-Programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/yohanse/Competitive-Programming/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2574-count-subarrays-with-median-k](https://github.com/yohanse/Competitive-Programming/tree/master/2574-count-subarrays-with-median-k) |
 | [2636-maximum-subsequence-score](https://github.com/yohanse/Competitive-Programming/tree/master/2636-maximum-subsequence-score) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/yohanse/Competitive-Programming/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1080-camelcase-matching](https://github.com/yohanse/Competitive-Programming/tree/master/1080-camelcase-matching) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/yohanse/Competitive-Programming/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yohanse/Competitive-Programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/yohanse/Competitive-Programming/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/yohanse/Competitive-Programming/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/yohanse/Competitive-Programming/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Trie
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0068-text-justification](https://github.com/yohanse/Competitive-Programming/tree/master/0068-text-justification) |
 | [1803-average-waiting-time](https://github.com/yohanse/Competitive-Programming/tree/master/1803-average-waiting-time) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/yohanse/Competitive-Programming/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yohanse/Competitive-Programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yohanse/Competitive-Programming/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Breadth-First Search
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1794-minimize-deviation-in-array](https://github.com/yohanse/Competitive-Programming/tree/master/1794-minimize-deviation-in-array) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/yohanse/Competitive-Programming/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yohanse/Competitive-Programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/yohanse/Competitive-Programming/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/yohanse/Competitive-Programming/tree/master/2636-maximum-subsequence-score) |
 | [2868-continuous-subarrays](https://github.com/yohanse/Competitive-Programming/tree/master/2868-continuous-subarrays) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/yohanse/Competitive-Programming/tree/master/3209-minimum-number-of-coins-for-fruits) |

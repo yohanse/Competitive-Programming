@@ -2,15 +2,16 @@ class Solution:
 
     def __init__(self, m: int, n: int):
         self.void = set()
-        self.m = m
-        self.n = n
+        self.size = n*m - 1
+        self.rows = n
 
     def flip(self) -> List[int]:
-        r, c = randint(0, self.m - 1), randint(0, self.n - 1)
-        while (r, c) in self.void:
-            r, c = randint(0, self.m - 1), randint(0, self.n - 1)
-        self.void.add((r, c))
-        return [r, c]
+        num = randint(0, self.size)
+        while num in self.void:
+            num = randint(0, self.size)
+        self.void.add(num)
+        return [num//self.rows, num%self.rows]
+
     def reset(self) -> None:
         self.void = set()
 

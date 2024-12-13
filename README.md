@@ -482,13 +482,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0687-longest-univalue-path](https://github.com/yohanse/Competitive-Programming/tree/master/0687-longest-univalue-path) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/yohanse/Competitive-Programming/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0687-longest-univalue-path](https://github.com/yohanse/Competitive-Programming/tree/master/0687-longest-univalue-path) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/yohanse/Competitive-Programming/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 ## Reservoir Sampling
 |  |
 | ------- |
 | [0913-random-flip-matrix](https://github.com/yohanse/Competitive-Programming/tree/master/0913-random-flip-matrix) |
+## Binary Tree
+|  |
+| ------- |
+| [0687-longest-univalue-path](https://github.com/yohanse/Competitive-Programming/tree/master/0687-longest-univalue-path) |
 <!---LeetCode Topics End-->

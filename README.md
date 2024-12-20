@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/yohanse/Competitive-Programming/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [2066-add-minimum-number-of-rungs](https://github.com/yohanse/Competitive-Programming/tree/master/2066-add-minimum-number-of-rungs) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/yohanse/Competitive-Programming/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2081-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/yohanse/Competitive-Programming/tree/master/2081-minimum-total-space-wasted-with-k-resizing-operations) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/yohanse/Competitive-Programming/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/yohanse/Competitive-Programming/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/yohanse/Competitive-Programming/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1617-stone-game-iv](https://github.com/yohanse/Competitive-Programming/tree/master/1617-stone-game-iv) |
 | [2001-jump-game-vii](https://github.com/yohanse/Competitive-Programming/tree/master/2001-jump-game-vii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/yohanse/Competitive-Programming/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2081-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/yohanse/Competitive-Programming/tree/master/2081-minimum-total-space-wasted-with-k-resizing-operations) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/yohanse/Competitive-Programming/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2115-number-of-unique-good-subsequences](https://github.com/yohanse/Competitive-Programming/tree/master/2115-number-of-unique-good-subsequences) |
 | [2444-longest-ideal-subsequence](https://github.com/yohanse/Competitive-Programming/tree/master/2444-longest-ideal-subsequence) |

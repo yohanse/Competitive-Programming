@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3047-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/yohanse/Competitive-Programming/tree/master/3047-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/yohanse/Competitive-Programming/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/yohanse/Competitive-Programming/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/yohanse/Competitive-Programming/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/yohanse/Competitive-Programming/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/yohanse/Competitive-Programming/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3265-maximum-good-subarray-sum](https://github.com/yohanse/Competitive-Programming/tree/master/3265-maximum-good-subarray-sum) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/yohanse/Competitive-Programming/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [2665-minimum-time-to-repair-cars](https://github.com/yohanse/Competitive-Programming/tree/master/2665-minimum-time-to-repair-cars) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/yohanse/Competitive-Programming/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/yohanse/Competitive-Programming/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/yohanse/Competitive-Programming/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/yohanse/Competitive-Programming/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Dynamic Programming
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-total-cost-to-hire-k-workers](https://github.com/yohanse/Competitive-Programming/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/yohanse/Competitive-Programming/tree/master/2636-maximum-subsequence-score) |
 | [2868-continuous-subarrays](https://github.com/yohanse/Competitive-Programming/tree/master/2868-continuous-subarrays) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/yohanse/Competitive-Programming/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/yohanse/Competitive-Programming/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yohanse/Competitive-Programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Number Theory
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/yohanse/Competitive-Programming/tree/master/0678-valid-parenthesis-string) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [1582-design-browser-history](https://github.com/yohanse/Competitive-Programming/tree/master/1582-design-browser-history) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/yohanse/Competitive-Programming/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Design
 |  |
 | ------- |
@@ -483,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/yohanse/Competitive-Programming/tree/master/0085-maximal-rectangle) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0779-max-chunks-to-make-sorted-ii) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/yohanse/Competitive-Programming/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Rejection Sampling
 |  |
 | ------- |
@@ -538,4 +543,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2472-build-a-matrix-with-conditions](https://github.com/yohanse/Competitive-Programming/tree/master/2472-build-a-matrix-with-conditions) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/yohanse/Competitive-Programming/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Segment Tree
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/yohanse/Competitive-Programming/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 <!---LeetCode Topics End-->

@@ -19,13 +19,8 @@ class Solution:
             if index + dp[index] > right:
                 left, right = index - dp[index], index + dp[index]
 
-        
             if index - dp[index] in [-1, 0]:
                 palindrome_length = (2*(dp[index] - 1) + 1) // 2
                 answer = max(answer, palindrome_length)
 
-        return s[answer:][::-1] + s
-
-            
-
-        
+        return s[answer:][::-1] + s      

@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/yohanse/Competitive-Programming/tree/master/0174-dungeon-game) |
 | [0213-house-robber-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0213-house-robber-ii) |
 | [0252-meeting-rooms](https://github.com/yohanse/Competitive-Programming/tree/master/0252-meeting-rooms) |
+| [0253-meeting-rooms-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0253-meeting-rooms-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/yohanse/Competitive-Programming/tree/master/0304-range-sum-query-2d-immutable) |
 | [0330-patching-array](https://github.com/yohanse/Competitive-Programming/tree/master/0330-patching-array) |
 | [0368-largest-divisible-subset](https://github.com/yohanse/Competitive-Programming/tree/master/0368-largest-divisible-subset) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yohanse/Competitive-Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0253-meeting-rooms-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0253-meeting-rooms-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yohanse/Competitive-Programming/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/yohanse/Competitive-Programming/tree/master/0768-partition-labels) |
 | [1080-camelcase-matching](https://github.com/yohanse/Competitive-Programming/tree/master/1080-camelcase-matching) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0253-meeting-rooms-ii) |
 | [0330-patching-array](https://github.com/yohanse/Competitive-Programming/tree/master/0330-patching-array) |
 | [0435-non-overlapping-intervals](https://github.com/yohanse/Competitive-Programming/tree/master/0435-non-overlapping-intervals) |
 | [0624-maximum-distance-in-arrays](https://github.com/yohanse/Competitive-Programming/tree/master/0624-maximum-distance-in-arrays) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0253-meeting-rooms-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/yohanse/Competitive-Programming/tree/master/0304-range-sum-query-2d-immutable) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/yohanse/Competitive-Programming/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/yohanse/Competitive-Programming/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
@@ -354,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/yohanse/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0252-meeting-rooms](https://github.com/yohanse/Competitive-Programming/tree/master/0252-meeting-rooms) |
+| [0253-meeting-rooms-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0253-meeting-rooms-ii) |
 | [0368-largest-divisible-subset](https://github.com/yohanse/Competitive-Programming/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/yohanse/Competitive-Programming/tree/master/0435-non-overlapping-intervals) |
 | [0630-course-schedule-iii](https://github.com/yohanse/Competitive-Programming/tree/master/0630-course-schedule-iii) |
@@ -371,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yohanse/Competitive-Programming/tree/master/0023-merge-k-sorted-lists) |
+| [0253-meeting-rooms-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0253-meeting-rooms-ii) |
 | [0630-course-schedule-iii](https://github.com/yohanse/Competitive-Programming/tree/master/0630-course-schedule-iii) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/yohanse/Competitive-Programming/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/yohanse/Competitive-Programming/tree/master/0892-shortest-subarray-with-sum-at-least-k) |

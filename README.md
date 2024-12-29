@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1080-camelcase-matching](https://github.com/yohanse/Competitive-Programming/tree/master/1080-camelcase-matching) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/yohanse/Competitive-Programming/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1508-longest-happy-prefix](https://github.com/yohanse/Competitive-Programming/tree/master/1508-longest-happy-prefix) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/yohanse/Competitive-Programming/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1804-maximum-binary-string-after-change](https://github.com/yohanse/Competitive-Programming/tree/master/1804-maximum-binary-string-after-change) |
 | [2001-jump-game-vii](https://github.com/yohanse/Competitive-Programming/tree/master/2001-jump-game-vii) |
 | [2115-number-of-unique-good-subsequences](https://github.com/yohanse/Competitive-Programming/tree/master/2115-number-of-unique-good-subsequences) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/yohanse/Competitive-Programming/tree/master/1582-design-browser-history) |
 | [1622-max-value-of-equation](https://github.com/yohanse/Competitive-Programming/tree/master/1622-max-value-of-equation) |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/yohanse/Competitive-Programming/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/yohanse/Competitive-Programming/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1794-minimize-deviation-in-array](https://github.com/yohanse/Competitive-Programming/tree/master/1794-minimize-deviation-in-array) |
 | [1803-average-waiting-time](https://github.com/yohanse/Competitive-Programming/tree/master/1803-average-waiting-time) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/yohanse/Competitive-Programming/tree/master/1826-maximum-xor-with-an-element-from-array) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-maximum-score-words-formed-by-letters](https://github.com/yohanse/Competitive-Programming/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1466-jump-game-v](https://github.com/yohanse/Competitive-Programming/tree/master/1466-jump-game-v) |
 | [1617-stone-game-iv](https://github.com/yohanse/Competitive-Programming/tree/master/1617-stone-game-iv) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/yohanse/Competitive-Programming/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2001-jump-game-vii](https://github.com/yohanse/Competitive-Programming/tree/master/2001-jump-game-vii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/yohanse/Competitive-Programming/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2081-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/yohanse/Competitive-Programming/tree/master/2081-minimum-total-space-wasted-with-k-resizing-operations) |

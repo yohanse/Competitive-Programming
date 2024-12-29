@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3047-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/yohanse/Competitive-Programming/tree/master/3047-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/yohanse/Competitive-Programming/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/yohanse/Competitive-Programming/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/yohanse/Competitive-Programming/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/yohanse/Competitive-Programming/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/yohanse/Competitive-Programming/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/yohanse/Competitive-Programming/tree/master/3228-maximum-size-of-a-set-after-removals) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2444-longest-ideal-subsequence](https://github.com/yohanse/Competitive-Programming/tree/master/2444-longest-ideal-subsequence) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/yohanse/Competitive-Programming/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2848-special-permutations](https://github.com/yohanse/Competitive-Programming/tree/master/2848-special-permutations) |
+| [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/yohanse/Competitive-Programming/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/yohanse/Competitive-Programming/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/yohanse/Competitive-Programming/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/yohanse/Competitive-Programming/tree/master/3391-maximum-difference-score-in-a-grid) |

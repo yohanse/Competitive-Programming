@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2636-maximum-subsequence-score](https://github.com/yohanse/Competitive-Programming/tree/master/2636-maximum-subsequence-score) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/yohanse/Competitive-Programming/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/yohanse/Competitive-Programming/tree/master/2665-minimum-time-to-repair-cars) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/yohanse/Competitive-Programming/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2832-find-the-longest-equal-subarray](https://github.com/yohanse/Competitive-Programming/tree/master/2832-find-the-longest-equal-subarray) |
 | [2848-special-permutations](https://github.com/yohanse/Competitive-Programming/tree/master/2848-special-permutations) |
 | [2868-continuous-subarrays](https://github.com/yohanse/Competitive-Programming/tree/master/2868-continuous-subarrays) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/yohanse/Competitive-Programming/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/yohanse/Competitive-Programming/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/yohanse/Competitive-Programming/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/yohanse/Competitive-Programming/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3047-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/yohanse/Competitive-Programming/tree/master/3047-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [3201-distribute-candies-among-children-ii](https://github.com/yohanse/Competitive-Programming/tree/master/3201-distribute-candies-among-children-ii) |
 | [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/yohanse/Competitive-Programming/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1307-ugly-number-iii](https://github.com/yohanse/Competitive-Programming/tree/master/1307-ugly-number-iii) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/yohanse/Competitive-Programming/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/yohanse/Competitive-Programming/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3047-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/yohanse/Competitive-Programming/tree/master/3047-maximum-element-sum-of-a-complete-subset-of-indices) |
 ## Ordered Set
 |  |

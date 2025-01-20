@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-maximum-score-words-formed-by-letters](https://github.com/yohanse/Competitive-Programming/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1466-jump-game-v](https://github.com/yohanse/Competitive-Programming/tree/master/1466-jump-game-v) |
 | [1617-stone-game-iv](https://github.com/yohanse/Competitive-Programming/tree/master/1617-stone-game-iv) |
+| [1740-count-subtrees-with-max-distance-between-cities](https://github.com/yohanse/Competitive-Programming/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/yohanse/Competitive-Programming/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2001-jump-game-vii](https://github.com/yohanse/Competitive-Programming/tree/master/2001-jump-game-vii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/yohanse/Competitive-Programming/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-shortest-path-to-get-all-keys](https://github.com/yohanse/Competitive-Programming/tree/master/0895-shortest-path-to-get-all-keys) |
 | [1022-unique-paths-iii](https://github.com/yohanse/Competitive-Programming/tree/master/1022-unique-paths-iii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/yohanse/Competitive-Programming/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1740-count-subtrees-with-max-distance-between-cities](https://github.com/yohanse/Competitive-Programming/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/yohanse/Competitive-Programming/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2632-apply-bitwise-operations-to-make-strings-equal](https://github.com/yohanse/Competitive-Programming/tree/master/2632-apply-bitwise-operations-to-make-strings-equal) |
 | [2848-special-permutations](https://github.com/yohanse/Competitive-Programming/tree/master/2848-special-permutations) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0464-can-i-win](https://github.com/yohanse/Competitive-Programming/tree/master/0464-can-i-win) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/yohanse/Competitive-Programming/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1740-count-subtrees-with-max-distance-between-cities](https://github.com/yohanse/Competitive-Programming/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [2848-special-permutations](https://github.com/yohanse/Competitive-Programming/tree/master/2848-special-permutations) |
 ## Sorting
 |  |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/yohanse/Competitive-Programming/tree/master/1334-sum-of-numbers-with-units-digit-k) |
+| [1740-count-subtrees-with-max-distance-between-cities](https://github.com/yohanse/Competitive-Programming/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [3201-distribute-candies-among-children-ii](https://github.com/yohanse/Competitive-Programming/tree/master/3201-distribute-candies-among-children-ii) |
 | [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/yohanse/Competitive-Programming/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 ## Recursion
@@ -572,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0572-subtree-of-another-tree) |
 | [0687-longest-univalue-path](https://github.com/yohanse/Competitive-Programming/tree/master/0687-longest-univalue-path) |
+| [1740-count-subtrees-with-max-distance-between-cities](https://github.com/yohanse/Competitive-Programming/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/yohanse/Competitive-Programming/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 ## Depth-First Search
 |  |

@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/yohanse/Competitive-Programming/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yohanse/Competitive-Programming/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3518-maximum-multiplication-score](https://github.com/yohanse/Competitive-Programming/tree/master/3518-maximum-multiplication-score) |
+| [3534-count-almost-equal-pairs-i](https://github.com/yohanse/Competitive-Programming/tree/master/3534-count-almost-equal-pairs-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/yohanse/Competitive-Programming/tree/master/3395-minimum-length-of-anagram-concatenation) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/yohanse/Competitive-Programming/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yohanse/Competitive-Programming/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3534-count-almost-equal-pairs-i](https://github.com/yohanse/Competitive-Programming/tree/master/3534-count-almost-equal-pairs-i) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/yohanse/Competitive-Programming/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Math
 |  |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2636-maximum-subsequence-score](https://github.com/yohanse/Competitive-Programming/tree/master/2636-maximum-subsequence-score) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/yohanse/Competitive-Programming/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3107-maximum-spending-after-buying-items](https://github.com/yohanse/Competitive-Programming/tree/master/3107-maximum-spending-after-buying-items) |
+| [3534-count-almost-equal-pairs-i](https://github.com/yohanse/Competitive-Programming/tree/master/3534-count-almost-equal-pairs-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/yohanse/Competitive-Programming/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/yohanse/Competitive-Programming/tree/master/3395-minimum-length-of-anagram-concatenation) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/yohanse/Competitive-Programming/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
+| [3534-count-almost-equal-pairs-i](https://github.com/yohanse/Competitive-Programming/tree/master/3534-count-almost-equal-pairs-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -569,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/yohanse/Competitive-Programming/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3201-distribute-candies-among-children-ii](https://github.com/yohanse/Competitive-Programming/tree/master/3201-distribute-candies-among-children-ii) |
 | [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/yohanse/Competitive-Programming/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
+| [3534-count-almost-equal-pairs-i](https://github.com/yohanse/Competitive-Programming/tree/master/3534-count-almost-equal-pairs-i) |
 ## Recursion
 |  |
 | ------- |

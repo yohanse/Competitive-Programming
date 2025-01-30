@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/yohanse/Competitive-Programming/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/yohanse/Competitive-Programming/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/yohanse/Competitive-Programming/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
+| [1989-minimum-xor-sum-of-two-arrays](https://github.com/yohanse/Competitive-Programming/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2066-add-minimum-number-of-rungs](https://github.com/yohanse/Competitive-Programming/tree/master/2066-add-minimum-number-of-rungs) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/yohanse/Competitive-Programming/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2081-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/yohanse/Competitive-Programming/tree/master/2081-minimum-total-space-wasted-with-k-resizing-operations) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1617-stone-game-iv](https://github.com/yohanse/Competitive-Programming/tree/master/1617-stone-game-iv) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/yohanse/Competitive-Programming/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/yohanse/Competitive-Programming/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1989-minimum-xor-sum-of-two-arrays](https://github.com/yohanse/Competitive-Programming/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2001-jump-game-vii](https://github.com/yohanse/Competitive-Programming/tree/master/2001-jump-game-vii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/yohanse/Competitive-Programming/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2081-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/yohanse/Competitive-Programming/tree/master/2081-minimum-total-space-wasted-with-k-resizing-operations) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-maximum-score-words-formed-by-letters](https://github.com/yohanse/Competitive-Programming/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/yohanse/Competitive-Programming/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/yohanse/Competitive-Programming/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [1989-minimum-xor-sum-of-two-arrays](https://github.com/yohanse/Competitive-Programming/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2632-apply-bitwise-operations-to-make-strings-equal](https://github.com/yohanse/Competitive-Programming/tree/master/2632-apply-bitwise-operations-to-make-strings-equal) |
 | [2848-special-permutations](https://github.com/yohanse/Competitive-Programming/tree/master/2848-special-permutations) |
 ## Sliding Window
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/yohanse/Competitive-Programming/tree/master/0464-can-i-win) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/yohanse/Competitive-Programming/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/yohanse/Competitive-Programming/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
+| [1989-minimum-xor-sum-of-two-arrays](https://github.com/yohanse/Competitive-Programming/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2848-special-permutations](https://github.com/yohanse/Competitive-Programming/tree/master/2848-special-permutations) |
 ## Sorting
 |  |

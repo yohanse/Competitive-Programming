@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/yohanse/Competitive-Programming/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3265-maximum-good-subarray-sum](https://github.com/yohanse/Competitive-Programming/tree/master/3265-maximum-good-subarray-sum) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/yohanse/Competitive-Programming/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
+| [3318-maximum-number-of-operations-with-the-same-score-ii](https://github.com/yohanse/Competitive-Programming/tree/master/3318-maximum-number-of-operations-with-the-same-score-ii) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yohanse/Competitive-Programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/yohanse/Competitive-Programming/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/yohanse/Competitive-Programming/tree/master/3391-maximum-difference-score-in-a-grid) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/yohanse/Competitive-Programming/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/yohanse/Competitive-Programming/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/yohanse/Competitive-Programming/tree/master/3209-minimum-number-of-coins-for-fruits) |
+| [3318-maximum-number-of-operations-with-the-same-score-ii](https://github.com/yohanse/Competitive-Programming/tree/master/3318-maximum-number-of-operations-with-the-same-score-ii) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/yohanse/Competitive-Programming/tree/master/3391-maximum-difference-score-in-a-grid) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/yohanse/Competitive-Programming/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3518-maximum-multiplication-score](https://github.com/yohanse/Competitive-Programming/tree/master/3518-maximum-multiplication-score) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/yohanse/Competitive-Programming/tree/master/0464-can-i-win) |
+| [3318-maximum-number-of-operations-with-the-same-score-ii](https://github.com/yohanse/Competitive-Programming/tree/master/3318-maximum-number-of-operations-with-the-same-score-ii) |
 ## Game Theory
 |  |
 | ------- |

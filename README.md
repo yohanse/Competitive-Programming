@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/yohanse/Competitive-Programming/tree/master/0435-non-overlapping-intervals) |
 | [0447-number-of-boomerangs](https://github.com/yohanse/Competitive-Programming/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/yohanse/Competitive-Programming/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0477-total-hamming-distance](https://github.com/yohanse/Competitive-Programming/tree/master/0477-total-hamming-distance) |
 | [0518-coin-change-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yohanse/Competitive-Programming/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/yohanse/Competitive-Programming/tree/master/0624-maximum-distance-in-arrays) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/yohanse/Competitive-Programming/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/yohanse/Competitive-Programming/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0464-can-i-win](https://github.com/yohanse/Competitive-Programming/tree/master/0464-can-i-win) |
+| [0477-total-hamming-distance](https://github.com/yohanse/Competitive-Programming/tree/master/0477-total-hamming-distance) |
 | [0593-valid-square](https://github.com/yohanse/Competitive-Programming/tree/master/0593-valid-square) |
 | [0903-implement-rand10-using-rand7](https://github.com/yohanse/Competitive-Programming/tree/master/0903-implement-rand10-using-rand7) |
 | [0913-random-flip-matrix](https://github.com/yohanse/Competitive-Programming/tree/master/0913-random-flip-matrix) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/yohanse/Competitive-Programming/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0464-can-i-win](https://github.com/yohanse/Competitive-Programming/tree/master/0464-can-i-win) |
+| [0477-total-hamming-distance](https://github.com/yohanse/Competitive-Programming/tree/master/0477-total-hamming-distance) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/yohanse/Competitive-Programming/tree/master/0895-shortest-path-to-get-all-keys) |
 | [1022-unique-paths-iii](https://github.com/yohanse/Competitive-Programming/tree/master/1022-unique-paths-iii) |
 | [1038-number-of-squareful-arrays](https://github.com/yohanse/Competitive-Programming/tree/master/1038-number-of-squareful-arrays) |

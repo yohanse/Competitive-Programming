@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/yohanse/Competitive-Programming/tree/master/0365-water-and-jug-problem) |
+| [0813-all-paths-from-source-to-target](https://github.com/yohanse/Competitive-Programming/tree/master/0813-all-paths-from-source-to-target) |
 | [0833-bus-routes](https://github.com/yohanse/Competitive-Programming/tree/master/0833-bus-routes) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/yohanse/Competitive-Programming/tree/master/0895-shortest-path-to-get-all-keys) |
 ## Union Find
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/yohanse/Competitive-Programming/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/yohanse/Competitive-Programming/tree/master/0051-n-queens) |
+| [0813-all-paths-from-source-to-target](https://github.com/yohanse/Competitive-Programming/tree/master/0813-all-paths-from-source-to-target) |
 | [1022-unique-paths-iii](https://github.com/yohanse/Competitive-Programming/tree/master/1022-unique-paths-iii) |
 | [1038-number-of-squareful-arrays](https://github.com/yohanse/Competitive-Programming/tree/master/1038-number-of-squareful-arrays) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/yohanse/Competitive-Programming/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/yohanse/Competitive-Programming/tree/master/0813-all-paths-from-source-to-target) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/yohanse/Competitive-Programming/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2472-build-a-matrix-with-conditions](https://github.com/yohanse/Competitive-Programming/tree/master/2472-build-a-matrix-with-conditions) |
 ## Tree
@@ -625,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/yohanse/Competitive-Programming/tree/master/0365-water-and-jug-problem) |
 | [0572-subtree-of-another-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0572-subtree-of-another-tree) |
 | [0687-longest-univalue-path](https://github.com/yohanse/Competitive-Programming/tree/master/0687-longest-univalue-path) |
+| [0813-all-paths-from-source-to-target](https://github.com/yohanse/Competitive-Programming/tree/master/0813-all-paths-from-source-to-target) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/yohanse/Competitive-Programming/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 ## Reservoir Sampling
 |  |

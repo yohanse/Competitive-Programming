@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yohanse/Competitive-Programming/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/yohanse/Competitive-Programming/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/yohanse/Competitive-Programming/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/yohanse/Competitive-Programming/tree/master/0049-group-anagrams) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yohanse/Competitive-Programming/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yohanse/Competitive-Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0253-meeting-rooms-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0253-meeting-rooms-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yohanse/Competitive-Programming/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yohanse/Competitive-Programming/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/yohanse/Competitive-Programming/tree/master/0044-wildcard-matching) |
 | [0253-meeting-rooms-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0253-meeting-rooms-ii) |
 | [0330-patching-array](https://github.com/yohanse/Competitive-Programming/tree/master/0330-patching-array) |

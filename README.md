@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/yohanse/Competitive-Programming/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2472-build-a-matrix-with-conditions](https://github.com/yohanse/Competitive-Programming/tree/master/2472-build-a-matrix-with-conditions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yohanse/Competitive-Programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/yohanse/Competitive-Programming/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2548-destroy-sequential-targets](https://github.com/yohanse/Competitive-Programming/tree/master/2548-destroy-sequential-targets) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/yohanse/Competitive-Programming/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2574-count-subarrays-with-median-k](https://github.com/yohanse/Competitive-Programming/tree/master/2574-count-subarrays-with-median-k) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1080-camelcase-matching](https://github.com/yohanse/Competitive-Programming/tree/master/1080-camelcase-matching) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/yohanse/Competitive-Programming/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yohanse/Competitive-Programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/yohanse/Competitive-Programming/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/yohanse/Competitive-Programming/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/yohanse/Competitive-Programming/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/yohanse/Competitive-Programming/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/yohanse/Competitive-Programming/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/yohanse/Competitive-Programming/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yohanse/Competitive-Programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/yohanse/Competitive-Programming/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2636-maximum-subsequence-score](https://github.com/yohanse/Competitive-Programming/tree/master/2636-maximum-subsequence-score) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/yohanse/Competitive-Programming/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/yohanse/Competitive-Programming/tree/master/3046-minimum-operations-to-make-a-special-number) |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/yohanse/Competitive-Programming/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/yohanse/Competitive-Programming/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yohanse/Competitive-Programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/yohanse/Competitive-Programming/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2636-maximum-subsequence-score](https://github.com/yohanse/Competitive-Programming/tree/master/2636-maximum-subsequence-score) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/yohanse/Competitive-Programming/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/yohanse/Competitive-Programming/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |

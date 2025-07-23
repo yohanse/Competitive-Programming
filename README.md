@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/yohanse/Competitive-Programming/tree/master/0127-word-ladder) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/yohanse/Competitive-Programming/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0365-water-and-jug-problem](https://github.com/yohanse/Competitive-Programming/tree/master/0365-water-and-jug-problem) |
 | [0813-all-paths-from-source-to-target](https://github.com/yohanse/Competitive-Programming/tree/master/0813-all-paths-from-source-to-target) |
 | [0833-bus-routes](https://github.com/yohanse/Competitive-Programming/tree/master/0833-bus-routes) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/yohanse/Competitive-Programming/tree/master/0128-longest-consecutive-sequence) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/yohanse/Competitive-Programming/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/yohanse/Competitive-Programming/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Bit Manipulation
 |  |
@@ -645,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/yohanse/Competitive-Programming/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0813-all-paths-from-source-to-target](https://github.com/yohanse/Competitive-Programming/tree/master/0813-all-paths-from-source-to-target) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/yohanse/Competitive-Programming/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2472-build-a-matrix-with-conditions](https://github.com/yohanse/Competitive-Programming/tree/master/2472-build-a-matrix-with-conditions) |
@@ -658,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/yohanse/Competitive-Programming/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0365-water-and-jug-problem](https://github.com/yohanse/Competitive-Programming/tree/master/0365-water-and-jug-problem) |
 | [0572-subtree-of-another-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0572-subtree-of-another-tree) |
 | [0687-longest-univalue-path](https://github.com/yohanse/Competitive-Programming/tree/master/0687-longest-univalue-path) |

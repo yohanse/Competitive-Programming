@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-shortest-path-to-get-all-keys](https://github.com/yohanse/Competitive-Programming/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0952-word-subsets](https://github.com/yohanse/Competitive-Programming/tree/master/0952-word-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/yohanse/Competitive-Programming/tree/master/0967-minimum-falling-path-sum) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/yohanse/Competitive-Programming/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1022-unique-paths-iii](https://github.com/yohanse/Competitive-Programming/tree/master/1022-unique-paths-iii) |
 | [1038-number-of-squareful-arrays](https://github.com/yohanse/Competitive-Programming/tree/master/1038-number-of-squareful-arrays) |
 | [1080-camelcase-matching](https://github.com/yohanse/Competitive-Programming/tree/master/1080-camelcase-matching) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/yohanse/Competitive-Programming/tree/master/0768-partition-labels) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/yohanse/Competitive-Programming/tree/master/0887-minimum-cost-to-hire-k-workers) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/yohanse/Competitive-Programming/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1140-distant-barcodes](https://github.com/yohanse/Competitive-Programming/tree/master/1140-distant-barcodes) |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/yohanse/Competitive-Programming/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/yohanse/Competitive-Programming/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yohanse/Competitive-Programming/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/yohanse/Competitive-Programming/tree/master/0887-minimum-cost-to-hire-k-workers) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/yohanse/Competitive-Programming/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1140-distant-barcodes](https://github.com/yohanse/Competitive-Programming/tree/master/1140-distant-barcodes) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/yohanse/Competitive-Programming/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1466-jump-game-v](https://github.com/yohanse/Competitive-Programming/tree/master/1466-jump-game-v) |
@@ -565,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/yohanse/Competitive-Programming/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1140-distant-barcodes](https://github.com/yohanse/Competitive-Programming/tree/master/1140-distant-barcodes) |
 | [2548-destroy-sequential-targets](https://github.com/yohanse/Competitive-Programming/tree/master/2548-destroy-sequential-targets) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/yohanse/Competitive-Programming/tree/master/2633-minimum-cost-to-split-an-array) |

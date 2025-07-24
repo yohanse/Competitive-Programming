@@ -682,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0572-subtree-of-another-tree) |
 | [0687-longest-univalue-path](https://github.com/yohanse/Competitive-Programming/tree/master/0687-longest-univalue-path) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/yohanse/Competitive-Programming/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
@@ -693,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/yohanse/Competitive-Programming/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0365-water-and-jug-problem](https://github.com/yohanse/Competitive-Programming/tree/master/0365-water-and-jug-problem) |
 | [0417-pacific-atlantic-water-flow](https://github.com/yohanse/Competitive-Programming/tree/master/0417-pacific-atlantic-water-flow) |
+| [0543-diameter-of-binary-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0572-subtree-of-another-tree) |
 | [0687-longest-univalue-path](https://github.com/yohanse/Competitive-Programming/tree/master/0687-longest-univalue-path) |
 | [0813-all-paths-from-source-to-target](https://github.com/yohanse/Competitive-Programming/tree/master/0813-all-paths-from-source-to-target) |
@@ -704,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0572-subtree-of-another-tree) |
 | [0687-longest-univalue-path](https://github.com/yohanse/Competitive-Programming/tree/master/0687-longest-univalue-path) |
 ## Topological Sort

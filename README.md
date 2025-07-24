@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/yohanse/Competitive-Programming/tree/master/0330-patching-array) |
 | [0368-largest-divisible-subset](https://github.com/yohanse/Competitive-Programming/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/yohanse/Competitive-Programming/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/yohanse/Competitive-Programming/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/yohanse/Competitive-Programming/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/yohanse/Competitive-Programming/tree/master/0435-non-overlapping-intervals) |
 | [0447-number-of-boomerangs](https://github.com/yohanse/Competitive-Programming/tree/master/0447-number-of-boomerangs) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0253-meeting-rooms-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0253-meeting-rooms-ii) |
 | [0330-patching-array](https://github.com/yohanse/Competitive-Programming/tree/master/0330-patching-array) |
+| [0410-split-array-largest-sum](https://github.com/yohanse/Competitive-Programming/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/yohanse/Competitive-Programming/tree/master/0435-non-overlapping-intervals) |
 | [0624-maximum-distance-in-arrays](https://github.com/yohanse/Competitive-Programming/tree/master/0624-maximum-distance-in-arrays) |
 | [0630-course-schedule-iii](https://github.com/yohanse/Competitive-Programming/tree/master/0630-course-schedule-iii) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/yohanse/Competitive-Programming/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/yohanse/Competitive-Programming/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yohanse/Competitive-Programming/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yohanse/Competitive-Programming/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/yohanse/Competitive-Programming/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/yohanse/Competitive-Programming/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0403-frog-jump](https://github.com/yohanse/Competitive-Programming/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/yohanse/Competitive-Programming/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/yohanse/Competitive-Programming/tree/master/0435-non-overlapping-intervals) |
 | [0464-can-i-win](https://github.com/yohanse/Competitive-Programming/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/yohanse/Competitive-Programming/tree/master/0473-matchsticks-to-square) |
@@ -433,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0253-meeting-rooms-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/yohanse/Competitive-Programming/tree/master/0304-range-sum-query-2d-immutable) |
+| [0410-split-array-largest-sum](https://github.com/yohanse/Competitive-Programming/tree/master/0410-split-array-largest-sum) |
 | [0831-largest-sum-of-averages](https://github.com/yohanse/Competitive-Programming/tree/master/0831-largest-sum-of-averages) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/yohanse/Competitive-Programming/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/yohanse/Competitive-Programming/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |

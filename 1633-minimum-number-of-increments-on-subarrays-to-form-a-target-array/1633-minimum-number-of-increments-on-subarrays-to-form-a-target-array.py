@@ -48,20 +48,10 @@ class Solution:
         # we will continue doing this but all the remaining numbers are less than 5 so no change
 
         # let me code it
-
-        stack = [target[0]]
         operations = target[0]
 
-        for i in range(len(target)):
-            min_num = target[i]
-            while stack and stack[-1] <= target[i]:
-                min_num = min(min_num, stack.pop())
-            
-
-            operations += target[i] - min_num
-            stack.append(target[i])
+        for i in range(1, len(target)):
+            if target[i] > target[i - 1]:
+                operations += -target[i - 1] + target[i]
         return operations
-
-        # let me run the code logically
-        # target = [3, 1, 5, 4, 2]
 

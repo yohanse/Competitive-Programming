@@ -1,10 +1,13 @@
 class Solution:
     def eraseOverlapIntervals(self, intervals: List[List[int]]) -> int:
-        intervals.sort(key=lambda x: x[1])
-        max_end = -inf
-        count = 0
-        for start, end in intervals:
-            if start >= max_end:
-                count += 1
-                max_end = max(max_end, end)
-        return len(intervals) - count
+        intervals.sort()
+        number_of_overlapp = 0
+        end = -inf
+        print(intervals)
+        for a, b in intervals:
+            if a < end:
+                number_of_overlapp += 1
+                end = min(end, b)
+            else:
+                end = b
+        return number_of_overlapp

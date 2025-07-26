@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/yohanse/Competitive-Programming/tree/master/0214-shortest-palindrome) |
 | [0269-alien-dictionary](https://github.com/yohanse/Competitive-Programming/tree/master/0269-alien-dictionary) |
 | [0273-integer-to-english-words](https://github.com/yohanse/Competitive-Programming/tree/master/0273-integer-to-english-words) |
+| [0387-first-unique-character-in-a-string](https://github.com/yohanse/Competitive-Programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/yohanse/Competitive-Programming/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/yohanse/Competitive-Programming/tree/master/0686-repeated-string-match) |
 | [0768-partition-labels](https://github.com/yohanse/Competitive-Programming/tree/master/0768-partition-labels) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/yohanse/Competitive-Programming/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/yohanse/Competitive-Programming/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/yohanse/Competitive-Programming/tree/master/0128-longest-consecutive-sequence) |
+| [0387-first-unique-character-in-a-string](https://github.com/yohanse/Competitive-Programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0447-number-of-boomerangs](https://github.com/yohanse/Competitive-Programming/tree/master/0447-number-of-boomerangs) |
 | [0768-partition-labels](https://github.com/yohanse/Competitive-Programming/tree/master/0768-partition-labels) |
 | [0833-bus-routes](https://github.com/yohanse/Competitive-Programming/tree/master/0833-bus-routes) |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/yohanse/Competitive-Programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/yohanse/Competitive-Programming/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1140-distant-barcodes](https://github.com/yohanse/Competitive-Programming/tree/master/1140-distant-barcodes) |
 | [2548-destroy-sequential-targets](https://github.com/yohanse/Competitive-Programming/tree/master/2548-destroy-sequential-targets) |
@@ -644,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/yohanse/Competitive-Programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/yohanse/Competitive-Programming/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1622-max-value-of-equation](https://github.com/yohanse/Competitive-Programming/tree/master/1622-max-value-of-equation) |
 | [2868-continuous-subarrays](https://github.com/yohanse/Competitive-Programming/tree/master/2868-continuous-subarrays) |

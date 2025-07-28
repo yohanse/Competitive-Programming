@@ -33,17 +33,17 @@ class Codec:
         """
         arr = data.split()[::-1]
         
-        def preorder():
+        def preorder(arr):
 
             data = arr.pop()
             if data == "#":
                 return None
 
             node = TreeNode(data)
-            node.left = preorder()
-            node.right = preorder()
+            node.left = preorder(arr)
+            node.right = preorder(arr)
             return node
-        return preorder()
+        return preorder(arr)
         
 
 # Your Codec object will be instantiated and called as such:

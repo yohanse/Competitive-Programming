@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/yohanse/Competitive-Programming/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/yohanse/Competitive-Programming/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/yohanse/Competitive-Programming/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/yohanse/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0213-house-robber-ii) |
 | [0252-meeting-rooms](https://github.com/yohanse/Competitive-Programming/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0253-meeting-rooms-ii) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/yohanse/Competitive-Programming/tree/master/0127-word-ladder) |
+| [0200-number-of-islands](https://github.com/yohanse/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0269-alien-dictionary](https://github.com/yohanse/Competitive-Programming/tree/master/0269-alien-dictionary) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/yohanse/Competitive-Programming/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0365-water-and-jug-problem](https://github.com/yohanse/Competitive-Programming/tree/master/0365-water-and-jug-problem) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/yohanse/Competitive-Programming/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/yohanse/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/yohanse/Competitive-Programming/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/yohanse/Competitive-Programming/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Bit Manipulation
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/yohanse/Competitive-Programming/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/yohanse/Competitive-Programming/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/yohanse/Competitive-Programming/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/yohanse/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/yohanse/Competitive-Programming/tree/master/0304-range-sum-query-2d-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/yohanse/Competitive-Programming/tree/master/0417-pacific-atlantic-water-flow) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/yohanse/Competitive-Programming/tree/master/0895-shortest-path-to-get-all-keys) |
@@ -720,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/yohanse/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0269-alien-dictionary](https://github.com/yohanse/Competitive-Programming/tree/master/0269-alien-dictionary) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/yohanse/Competitive-Programming/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0365-water-and-jug-problem](https://github.com/yohanse/Competitive-Programming/tree/master/0365-water-and-jug-problem) |

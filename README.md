@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/yohanse/Competitive-Programming/tree/master/0214-shortest-palindrome) |
 | [0269-alien-dictionary](https://github.com/yohanse/Competitive-Programming/tree/master/0269-alien-dictionary) |
 | [0273-integer-to-english-words](https://github.com/yohanse/Competitive-Programming/tree/master/0273-integer-to-english-words) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/yohanse/Competitive-Programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/yohanse/Competitive-Programming/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/yohanse/Competitive-Programming/tree/master/0686-repeated-string-match) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/yohanse/Competitive-Programming/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/yohanse/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0269-alien-dictionary](https://github.com/yohanse/Competitive-Programming/tree/master/0269-alien-dictionary) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/yohanse/Competitive-Programming/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0365-water-and-jug-problem](https://github.com/yohanse/Competitive-Programming/tree/master/0365-water-and-jug-problem) |
 | [0417-pacific-atlantic-water-flow](https://github.com/yohanse/Competitive-Programming/tree/master/0417-pacific-atlantic-water-flow) |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0304-range-sum-query-2d-immutable](https://github.com/yohanse/Competitive-Programming/tree/master/0304-range-sum-query-2d-immutable) |
 | [0931-maximum-frequency-stack](https://github.com/yohanse/Competitive-Programming/tree/master/0931-maximum-frequency-stack) |
 | [1582-design-browser-history](https://github.com/yohanse/Competitive-Programming/tree/master/1582-design-browser-history) |
@@ -719,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0572-subtree-of-another-tree) |
 | [0687-longest-univalue-path](https://github.com/yohanse/Competitive-Programming/tree/master/0687-longest-univalue-path) |
@@ -729,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/yohanse/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0269-alien-dictionary](https://github.com/yohanse/Competitive-Programming/tree/master/0269-alien-dictionary) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/yohanse/Competitive-Programming/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0365-water-and-jug-problem](https://github.com/yohanse/Competitive-Programming/tree/master/0365-water-and-jug-problem) |
 | [0417-pacific-atlantic-water-flow](https://github.com/yohanse/Competitive-Programming/tree/master/0417-pacific-atlantic-water-flow) |
@@ -744,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0572-subtree-of-another-tree) |
 | [0687-longest-univalue-path](https://github.com/yohanse/Competitive-Programming/tree/master/0687-longest-univalue-path) |

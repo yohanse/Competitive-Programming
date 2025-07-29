@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/yohanse/Competitive-Programming/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/yohanse/Competitive-Programming/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/yohanse/Competitive-Programming/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/yohanse/Competitive-Programming/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/yohanse/Competitive-Programming/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/yohanse/Competitive-Programming/tree/master/0128-longest-consecutive-sequence) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/yohanse/Competitive-Programming/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/yohanse/Competitive-Programming/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/yohanse/Competitive-Programming/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/yohanse/Competitive-Programming/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/yohanse/Competitive-Programming/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/yohanse/Competitive-Programming/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/yohanse/Competitive-Programming/tree/master/0128-longest-consecutive-sequence) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/yohanse/Competitive-Programming/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/yohanse/Competitive-Programming/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/yohanse/Competitive-Programming/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/yohanse/Competitive-Programming/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/yohanse/Competitive-Programming/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/yohanse/Competitive-Programming/tree/master/0200-number-of-islands) |

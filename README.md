@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/yohanse/Competitive-Programming/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/yohanse/Competitive-Programming/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yohanse/Competitive-Programming/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/yohanse/Competitive-Programming/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/yohanse/Competitive-Programming/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3518-maximum-multiplication-score](https://github.com/yohanse/Competitive-Programming/tree/master/3518-maximum-multiplication-score) |
 | [3534-count-almost-equal-pairs-i](https://github.com/yohanse/Competitive-Programming/tree/master/3534-count-almost-equal-pairs-i) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3318-maximum-number-of-operations-with-the-same-score-ii](https://github.com/yohanse/Competitive-Programming/tree/master/3318-maximum-number-of-operations-with-the-same-score-ii) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/yohanse/Competitive-Programming/tree/master/3391-maximum-difference-score-in-a-grid) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/yohanse/Competitive-Programming/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/yohanse/Competitive-Programming/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/yohanse/Competitive-Programming/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3518-maximum-multiplication-score](https://github.com/yohanse/Competitive-Programming/tree/master/3518-maximum-multiplication-score) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/yohanse/Competitive-Programming/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |

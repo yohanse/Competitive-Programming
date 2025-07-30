@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/yohanse/Competitive-Programming/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/yohanse/Competitive-Programming/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2444-longest-ideal-subsequence](https://github.com/yohanse/Competitive-Programming/tree/master/2444-longest-ideal-subsequence) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/yohanse/Competitive-Programming/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2548-destroy-sequential-targets](https://github.com/yohanse/Competitive-Programming/tree/master/2548-destroy-sequential-targets) |
 | [2574-count-subarrays-with-median-k](https://github.com/yohanse/Competitive-Programming/tree/master/2574-count-subarrays-with-median-k) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/yohanse/Competitive-Programming/tree/master/2633-minimum-cost-to-split-an-array) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/yohanse/Competitive-Programming/tree/master/0813-all-paths-from-source-to-target) |
 | [0833-bus-routes](https://github.com/yohanse/Competitive-Programming/tree/master/0833-bus-routes) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/yohanse/Competitive-Programming/tree/master/0895-shortest-path-to-get-all-keys) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/yohanse/Competitive-Programming/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Union Find
 |  |
 | ------- |
@@ -757,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0572-subtree-of-another-tree) |
 | [0687-longest-univalue-path](https://github.com/yohanse/Competitive-Programming/tree/master/0687-longest-univalue-path) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/yohanse/Competitive-Programming/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/yohanse/Competitive-Programming/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/yohanse/Competitive-Programming/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 ## Depth-First Search
 |  |
@@ -773,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0572-subtree-of-another-tree) |
 | [0687-longest-univalue-path](https://github.com/yohanse/Competitive-Programming/tree/master/0687-longest-univalue-path) |
 | [0813-all-paths-from-source-to-target](https://github.com/yohanse/Competitive-Programming/tree/master/0813-all-paths-from-source-to-target) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/yohanse/Competitive-Programming/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/yohanse/Competitive-Programming/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 ## Reservoir Sampling
 |  |
@@ -786,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0572-subtree-of-another-tree) |
 | [0687-longest-univalue-path](https://github.com/yohanse/Competitive-Programming/tree/master/0687-longest-univalue-path) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/yohanse/Competitive-Programming/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Topological Sort
 |  |
 | ------- |

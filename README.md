@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/yohanse/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/yohanse/Competitive-Programming/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/yohanse/Competitive-Programming/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/yohanse/Competitive-Programming/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/yohanse/Competitive-Programming/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0140-word-break-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/yohanse/Competitive-Programming/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/yohanse/Competitive-Programming/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/yohanse/Competitive-Programming/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/yohanse/Competitive-Programming/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/yohanse/Competitive-Programming/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/yohanse/Competitive-Programming/tree/master/0128-longest-consecutive-sequence) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/yohanse/Competitive-Programming/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/yohanse/Competitive-Programming/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/yohanse/Competitive-Programming/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/yohanse/Competitive-Programming/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/yohanse/Competitive-Programming/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/yohanse/Competitive-Programming/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/yohanse/Competitive-Programming/tree/master/0200-number-of-islands) |
@@ -637,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/yohanse/Competitive-Programming/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/yohanse/Competitive-Programming/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/yohanse/Competitive-Programming/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0140-word-break-ii) |
 | [0473-matchsticks-to-square](https://github.com/yohanse/Competitive-Programming/tree/master/0473-matchsticks-to-square) |
 | [0813-all-paths-from-source-to-target](https://github.com/yohanse/Competitive-Programming/tree/master/0813-all-paths-from-source-to-target) |
@@ -756,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/yohanse/Competitive-Programming/tree/master/0079-word-search) |
 | [0199-binary-tree-right-side-view](https://github.com/yohanse/Competitive-Programming/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/yohanse/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0269-alien-dictionary](https://github.com/yohanse/Competitive-Programming/tree/master/0269-alien-dictionary) |

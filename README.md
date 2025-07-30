@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/yohanse/Competitive-Programming/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/yohanse/Competitive-Programming/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0132-palindrome-partitioning-ii) |
+| [0140-word-break-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0140-word-break-ii) |
 | [0214-shortest-palindrome](https://github.com/yohanse/Competitive-Programming/tree/master/0214-shortest-palindrome) |
 | [0269-alien-dictionary](https://github.com/yohanse/Competitive-Programming/tree/master/0269-alien-dictionary) |
 | [0273-integer-to-english-words](https://github.com/yohanse/Competitive-Programming/tree/master/0273-integer-to-english-words) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/yohanse/Competitive-Programming/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/yohanse/Competitive-Programming/tree/master/0128-longest-consecutive-sequence) |
+| [0140-word-break-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/yohanse/Competitive-Programming/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/yohanse/Competitive-Programming/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/yohanse/Competitive-Programming/tree/master/0200-number-of-islands) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0140-word-break-ii) |
 | [1080-camelcase-matching](https://github.com/yohanse/Competitive-Programming/tree/master/1080-camelcase-matching) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/yohanse/Competitive-Programming/tree/master/1826-maximum-xor-with-an-element-from-array) |
 ## Greedy
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/yohanse/Competitive-Programming/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0132-palindrome-partitioning-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0132-palindrome-partitioning-ii) |
+| [0140-word-break-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/yohanse/Competitive-Programming/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/yohanse/Competitive-Programming/tree/master/0174-dungeon-game) |
 | [0213-house-robber-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0213-house-robber-ii) |
@@ -358,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/yohanse/Competitive-Programming/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/yohanse/Competitive-Programming/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/yohanse/Competitive-Programming/tree/master/0128-longest-consecutive-sequence) |
+| [0140-word-break-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0140-word-break-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/yohanse/Competitive-Programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0447-number-of-boomerangs](https://github.com/yohanse/Competitive-Programming/tree/master/0447-number-of-boomerangs) |
 | [0768-partition-labels](https://github.com/yohanse/Competitive-Programming/tree/master/0768-partition-labels) |
@@ -632,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/yohanse/Competitive-Programming/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/yohanse/Competitive-Programming/tree/master/0051-n-queens) |
+| [0140-word-break-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0140-word-break-ii) |
 | [0473-matchsticks-to-square](https://github.com/yohanse/Competitive-Programming/tree/master/0473-matchsticks-to-square) |
 | [0813-all-paths-from-source-to-target](https://github.com/yohanse/Competitive-Programming/tree/master/0813-all-paths-from-source-to-target) |
 | [1022-unique-paths-iii](https://github.com/yohanse/Competitive-Programming/tree/master/1022-unique-paths-iii) |
@@ -666,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0140-word-break-ii) |
 | [0464-can-i-win](https://github.com/yohanse/Competitive-Programming/tree/master/0464-can-i-win) |
 | [3318-maximum-number-of-operations-with-the-same-score-ii](https://github.com/yohanse/Competitive-Programming/tree/master/3318-maximum-number-of-operations-with-the-same-score-ii) |
 ## Game Theory

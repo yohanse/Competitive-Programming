@@ -3,7 +3,7 @@ class Solution:
         if numRows == 1:
             return s
 
-        cols = 1001
+        cols = len(s) // (numRows - 1) + 1
         zigzag = [["" for _ in range(cols)] for _ in range(numRows)]
 
         index = 0

@@ -1,10 +1,22 @@
 class Solution:
-    def lengthOfLIS(self, nums: List[int]) -> int:
-        leng = len(nums)
-        dp = [1 for _ in range(leng)]
-        for i in range(leng):
-            for j in range(i + 1):
-                if nums[i] > nums[j]:
-                    dp[i] = max(dp[i], dp[j] + 1)
-        return max(dp)
+    def binary_search(self, weights, weight):
+        l, r = 0, len(weights) - 1
+        while l < r:
+            mid = (l + r) // 2
+            if weights[mid] >= weight:
+                r = mid
+            else:
+                l = mid + 1
+        return l
+
+    def lengthOfLIS(self, weights: List[int]) -> int:
+        dp = [weights[0]]
+        for weight in weights[1:]:
+            if weight > dp[-1]:
+                dp.append(weight)
+            else:
+                index = self.binary_search(dp, weight)
+                dp[index] = weight
+
+        return len(dp)
         

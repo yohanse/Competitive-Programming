@@ -614,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/yohanse/Competitive-Programming/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/yohanse/Competitive-Programming/tree/master/0023-merge-k-sorted-lists) |
 | [1582-design-browser-history](https://github.com/yohanse/Competitive-Programming/tree/master/1582-design-browser-history) |
 ## Divide and Conquer
@@ -750,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/yohanse/Competitive-Programming/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/yohanse/Competitive-Programming/tree/master/0044-wildcard-matching) |
 | [0273-integer-to-english-words](https://github.com/yohanse/Competitive-Programming/tree/master/0273-integer-to-english-words) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/yohanse/Competitive-Programming/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |

@@ -624,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/yohanse/Competitive-Programming/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/yohanse/Competitive-Programming/tree/master/0023-merge-k-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/yohanse/Competitive-Programming/tree/master/0138-copy-list-with-random-pointer) |
+| [0328-odd-even-linked-list](https://github.com/yohanse/Competitive-Programming/tree/master/0328-odd-even-linked-list) |
 | [1582-design-browser-history](https://github.com/yohanse/Competitive-Programming/tree/master/1582-design-browser-history) |
 ## Divide and Conquer
 |  |

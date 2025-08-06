@@ -14,7 +14,6 @@ class Solution:
         n = len(nums)
         k %= n
 
-        if k != 0:
-            self.reverse(0, n - 1)
-            self.reverse(0, k - 1)
-            self.reverse(k, n - 1)
+        self.reverse(0, n - 1)
+        self.reverse(0, k - 1)
+        self.reverse(k, n - 1)

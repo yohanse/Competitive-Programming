@@ -8,23 +8,26 @@ class Solution:
         if head == None or head.next == None:
             return head
         
-        index = 1
         curr = head
-        previous = None
-        first = head
-        result = head
+        odd_dummy = ListNode()
+        even_dummy = ListNode()
+        even_head = even_dummy
+        result = odd_dummy
+        index = 1
 
         while curr:
-            temp = curr.next
-            if index%2 == 1 and index != 1:
-                previous.next = curr.next
-                temp1 = first.next
-                first.next = curr
-                first.next.next = temp1
-                first = first.next
-
-
+            if index%2:
+                odd_dummy.next = curr
+                odd_dummy = odd_dummy.next
+            else:
+                even_dummy.next = curr
+                even_dummy = even_dummy.next
+            
             index += 1
-            previous = curr
-            curr = temp
-        return result
+            curr = curr.next
+        
+        odd_dummy.next = even_head.next
+        even_dummy.next = None
+
+        return result.next
+        

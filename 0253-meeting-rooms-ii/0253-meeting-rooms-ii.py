@@ -1,12 +1,15 @@
 class Solution:
     def minMeetingRooms(self, intervals: List[List[int]]) -> int:
         intervals.sort()
+        max_conference_room = 1
         heap = []
-        max_overlap = 0
+        rooms = 0
         for start, end in intervals:
-            while heap and start >= heap[0]:
+            while heap and heap[0] <= start:
                 heappop(heap)
+                rooms -= 1
+
             heappush(heap, end)
-            max_overlap = max(max_overlap, len(heap))
-        return max_overlap
-        
+            rooms += 1
+            max_conference_room = max(max_conference_room, rooms)
+        return max_conference_room

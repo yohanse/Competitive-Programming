@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/yohanse/Competitive-Programming/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/yohanse/Competitive-Programming/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/yohanse/Competitive-Programming/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/yohanse/Competitive-Programming/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/yohanse/Competitive-Programming/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/yohanse/Competitive-Programming/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/yohanse/Competitive-Programming/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yohanse/Competitive-Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/yohanse/Competitive-Programming/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/yohanse/Competitive-Programming/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/yohanse/Competitive-Programming/tree/master/0189-rotate-array) |
 | [0253-meeting-rooms-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0253-meeting-rooms-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yohanse/Competitive-Programming/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/yohanse/Competitive-Programming/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/yohanse/Competitive-Programming/tree/master/0075-sort-colors) |
 | [0252-meeting-rooms](https://github.com/yohanse/Competitive-Programming/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0253-meeting-rooms-ii) |
 | [0274-h-index](https://github.com/yohanse/Competitive-Programming/tree/master/0274-h-index) |

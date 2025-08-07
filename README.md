@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/yohanse/Competitive-Programming/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/yohanse/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/yohanse/Competitive-Programming/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/yohanse/Competitive-Programming/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/yohanse/Competitive-Programming/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/yohanse/Competitive-Programming/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/yohanse/Competitive-Programming/tree/master/0073-set-matrix-zeroes) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/yohanse/Competitive-Programming/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/yohanse/Competitive-Programming/tree/master/0068-text-justification) |
 | [0348-design-tic-tac-toe](https://github.com/yohanse/Competitive-Programming/tree/master/0348-design-tic-tac-toe) |
 | [1803-average-waiting-time](https://github.com/yohanse/Competitive-Programming/tree/master/1803-average-waiting-time) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/yohanse/Competitive-Programming/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/yohanse/Competitive-Programming/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/yohanse/Competitive-Programming/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/yohanse/Competitive-Programming/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/yohanse/Competitive-Programming/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/yohanse/Competitive-Programming/tree/master/0085-maximal-rectangle) |

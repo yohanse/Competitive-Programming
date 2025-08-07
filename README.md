@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/yohanse/Competitive-Programming/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/yohanse/Competitive-Programming/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/yohanse/Competitive-Programming/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/yohanse/Competitive-Programming/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1794-minimize-deviation-in-array](https://github.com/yohanse/Competitive-Programming/tree/master/1794-minimize-deviation-in-array) |
 | [1803-average-waiting-time](https://github.com/yohanse/Competitive-Programming/tree/master/1803-average-waiting-time) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/yohanse/Competitive-Programming/tree/master/1826-maximum-xor-with-an-element-from-array) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1307-ugly-number-iii](https://github.com/yohanse/Competitive-Programming/tree/master/1307-ugly-number-iii) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/yohanse/Competitive-Programming/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/yohanse/Competitive-Programming/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/yohanse/Competitive-Programming/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/yohanse/Competitive-Programming/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2665-minimum-time-to-repair-cars](https://github.com/yohanse/Competitive-Programming/tree/master/2665-minimum-time-to-repair-cars) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/yohanse/Competitive-Programming/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-number-of-squareful-arrays](https://github.com/yohanse/Competitive-Programming/tree/master/1038-number-of-squareful-arrays) |
 | [1140-distant-barcodes](https://github.com/yohanse/Competitive-Programming/tree/master/1140-distant-barcodes) |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/yohanse/Competitive-Programming/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/yohanse/Competitive-Programming/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/yohanse/Competitive-Programming/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2139-detect-squares](https://github.com/yohanse/Competitive-Programming/tree/master/2139-detect-squares) |
 | [2444-longest-ideal-subsequence](https://github.com/yohanse/Competitive-Programming/tree/master/2444-longest-ideal-subsequence) |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/yohanse/Competitive-Programming/tree/master/0076-minimum-window-substring) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/yohanse/Competitive-Programming/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1622-max-value-of-equation](https://github.com/yohanse/Competitive-Programming/tree/master/1622-max-value-of-equation) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/yohanse/Competitive-Programming/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2001-jump-game-vii](https://github.com/yohanse/Competitive-Programming/tree/master/2001-jump-game-vii) |
 | [2275-find-substring-with-given-hash-value](https://github.com/yohanse/Competitive-Programming/tree/master/2275-find-substring-with-given-hash-value) |
 | [2832-find-the-longest-equal-subarray](https://github.com/yohanse/Competitive-Programming/tree/master/2832-find-the-longest-equal-subarray) |
@@ -524,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0831-largest-sum-of-averages](https://github.com/yohanse/Competitive-Programming/tree/master/0831-largest-sum-of-averages) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/yohanse/Competitive-Programming/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/yohanse/Competitive-Programming/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/yohanse/Competitive-Programming/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2001-jump-game-vii](https://github.com/yohanse/Competitive-Programming/tree/master/2001-jump-game-vii) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/yohanse/Competitive-Programming/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yohanse/Competitive-Programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |

@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2548-destroy-sequential-targets](https://github.com/yohanse/Competitive-Programming/tree/master/2548-destroy-sequential-targets) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/yohanse/Competitive-Programming/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2574-count-subarrays-with-median-k](https://github.com/yohanse/Competitive-Programming/tree/master/2574-count-subarrays-with-median-k) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/yohanse/Competitive-Programming/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/yohanse/Competitive-Programming/tree/master/2633-minimum-cost-to-split-an-array) |
 | [2636-maximum-subsequence-score](https://github.com/yohanse/Competitive-Programming/tree/master/2636-maximum-subsequence-score) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/yohanse/Competitive-Programming/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yohanse/Competitive-Programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/yohanse/Competitive-Programming/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/yohanse/Competitive-Programming/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/yohanse/Competitive-Programming/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2636-maximum-subsequence-score](https://github.com/yohanse/Competitive-Programming/tree/master/2636-maximum-subsequence-score) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/yohanse/Competitive-Programming/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/yohanse/Competitive-Programming/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/yohanse/Competitive-Programming/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/yohanse/Competitive-Programming/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/yohanse/Competitive-Programming/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/yohanse/Competitive-Programming/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2665-minimum-time-to-repair-cars](https://github.com/yohanse/Competitive-Programming/tree/master/2665-minimum-time-to-repair-cars) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/yohanse/Competitive-Programming/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2832-find-the-longest-equal-subarray](https://github.com/yohanse/Competitive-Programming/tree/master/2832-find-the-longest-equal-subarray) |
@@ -584,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yohanse/Competitive-Programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/yohanse/Competitive-Programming/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/yohanse/Competitive-Programming/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/yohanse/Competitive-Programming/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2636-maximum-subsequence-score](https://github.com/yohanse/Competitive-Programming/tree/master/2636-maximum-subsequence-score) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/yohanse/Competitive-Programming/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/yohanse/Competitive-Programming/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |

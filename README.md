@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/yohanse/Competitive-Programming/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/yohanse/Competitive-Programming/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/yohanse/Competitive-Programming/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yohanse/Competitive-Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/yohanse/Competitive-Programming/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/yohanse/Competitive-Programming/tree/master/0044-wildcard-matching) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yohanse/Competitive-Programming/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/yohanse/Competitive-Programming/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/yohanse/Competitive-Programming/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/yohanse/Competitive-Programming/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0040-combination-sum-ii) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/yohanse/Competitive-Programming/tree/master/0014-longest-common-prefix) |
 | [0140-word-break-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0140-word-break-ii) |
 | [1080-camelcase-matching](https://github.com/yohanse/Competitive-Programming/tree/master/1080-camelcase-matching) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/yohanse/Competitive-Programming/tree/master/1826-maximum-xor-with-an-element-from-array) |

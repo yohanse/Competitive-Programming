@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/yohanse/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/yohanse/Competitive-Programming/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/yohanse/Competitive-Programming/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/yohanse/Competitive-Programming/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/yohanse/Competitive-Programming/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/yohanse/Competitive-Programming/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/yohanse/Competitive-Programming/tree/master/0073-set-matrix-zeroes) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/yohanse/Competitive-Programming/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/yohanse/Competitive-Programming/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/yohanse/Competitive-Programming/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0253-meeting-rooms-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0253-meeting-rooms-ii) |
 | [0330-patching-array](https://github.com/yohanse/Competitive-Programming/tree/master/0330-patching-array) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/yohanse/Competitive-Programming/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/yohanse/Competitive-Programming/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/yohanse/Competitive-Programming/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/yohanse/Competitive-Programming/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0132-palindrome-partitioning-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0132-palindrome-partitioning-ii) |

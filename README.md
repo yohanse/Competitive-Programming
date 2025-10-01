@@ -855,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/yohanse/Competitive-Programming/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0333-largest-bst-subtree](https://github.com/yohanse/Competitive-Programming/tree/master/0333-largest-bst-subtree) |
+| [0366-find-leaves-of-binary-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0366-find-leaves-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0572-subtree-of-another-tree) |
 | [0687-longest-univalue-path](https://github.com/yohanse/Competitive-Programming/tree/master/0687-longest-univalue-path) |
@@ -879,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/yohanse/Competitive-Programming/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0333-largest-bst-subtree](https://github.com/yohanse/Competitive-Programming/tree/master/0333-largest-bst-subtree) |
 | [0365-water-and-jug-problem](https://github.com/yohanse/Competitive-Programming/tree/master/0365-water-and-jug-problem) |
+| [0366-find-leaves-of-binary-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0366-find-leaves-of-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/yohanse/Competitive-Programming/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0572-subtree-of-another-tree) |
@@ -903,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/yohanse/Competitive-Programming/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0333-largest-bst-subtree](https://github.com/yohanse/Competitive-Programming/tree/master/0333-largest-bst-subtree) |
+| [0366-find-leaves-of-binary-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0366-find-leaves-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0572-subtree-of-another-tree) |
 | [0687-longest-univalue-path](https://github.com/yohanse/Competitive-Programming/tree/master/0687-longest-univalue-path) |

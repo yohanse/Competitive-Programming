@@ -1,34 +1,15 @@
 class Solution:
     def verifyPreorder(self, preorder: List[int]) -> bool:
-        # Root Left_subtree Right_subtree
-        # Root [root, left_subtree, right_subtree] [root, left_subtree, right_subtree]
-        # 5 2 1 3 6
-        # root -- 5, left_subtree: 2 1 3  right_subtree: 6
-        
-        # preorder_traversal
+        stack = [preorder[0]]
+        min_value = -inf
 
-        def is_bst(left, right, max_val, min_val):
-            if right < left:
-                return True
-            
-            
-            
-            node = preorder[left]
-            l, r = left + 1, right
-            while l < r:
-                mid = (l + r) // 2
-                if preorder[mid] > node:
-                    r = mid
-                else:
-                    l = mid + 1
-            
-            if l == right and preorder[l] < node:
-                l += 1
+        for index in range(1, len(preorder)):
+            if preorder[index] < min_value:
+                return False
 
+            while stack and stack[-1] < preorder[index]:
+                min_value = max(min_value, stack.pop())
             
-            is_left_bst = is_bst(left + 1, l - 1, min(max_val, node), min_val)
-            is_right_bst = is_bst(l, right, max_val, max(min_val, node))
-            return is_left_bst and is_right_bst and min_val < node < max_val
-            
+            stack.append(preorder[index])
         
-        return is_bst(0, len(preorder) - 1, inf, -inf)
+        return True

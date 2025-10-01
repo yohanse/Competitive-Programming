@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0213-house-robber-ii) |
 | [0252-meeting-rooms](https://github.com/yohanse/Competitive-Programming/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0253-meeting-rooms-ii) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0269-alien-dictionary](https://github.com/yohanse/Competitive-Programming/tree/master/0269-alien-dictionary) |
 | [0274-h-index](https://github.com/yohanse/Competitive-Programming/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/yohanse/Competitive-Programming/tree/master/0300-longest-increasing-subsequence) |
@@ -738,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/yohanse/Competitive-Programming/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/yohanse/Competitive-Programming/tree/master/0085-maximal-rectangle) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0678-valid-parenthesis-string](https://github.com/yohanse/Competitive-Programming/tree/master/0678-valid-parenthesis-string) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0931-maximum-frequency-stack](https://github.com/yohanse/Competitive-Programming/tree/master/0931-maximum-frequency-stack) |
@@ -794,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/yohanse/Competitive-Programming/tree/master/0085-maximal-rectangle) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yohanse/Competitive-Programming/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/yohanse/Competitive-Programming/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -830,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/yohanse/Competitive-Programming/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/yohanse/Competitive-Programming/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/yohanse/Competitive-Programming/tree/master/0044-wildcard-matching) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0273-integer-to-english-words](https://github.com/yohanse/Competitive-Programming/tree/master/0273-integer-to-english-words) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/yohanse/Competitive-Programming/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 ## Graph
@@ -845,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/yohanse/Competitive-Programming/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0226-invert-binary-tree) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0572-subtree-of-another-tree) |
@@ -886,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/yohanse/Competitive-Programming/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0226-invert-binary-tree) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0572-subtree-of-another-tree) |
@@ -916,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/yohanse/Competitive-Programming/tree/master/0975-range-sum-of-bst) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/yohanse/Competitive-Programming/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Counting Sort

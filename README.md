@@ -659,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/yohanse/Competitive-Programming/tree/master/0493-reverse-pairs) |
+| [0716-max-stack](https://github.com/yohanse/Competitive-Programming/tree/master/0716-max-stack) |
 | [0931-maximum-frequency-stack](https://github.com/yohanse/Competitive-Programming/tree/master/0931-maximum-frequency-stack) |
 | [1794-minimize-deviation-in-array](https://github.com/yohanse/Competitive-Programming/tree/master/1794-minimize-deviation-in-array) |
 | [2868-continuous-subarrays](https://github.com/yohanse/Competitive-Programming/tree/master/2868-continuous-subarrays) |
@@ -701,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/yohanse/Competitive-Programming/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/yohanse/Competitive-Programming/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/yohanse/Competitive-Programming/tree/master/0328-odd-even-linked-list) |
+| [0716-max-stack](https://github.com/yohanse/Competitive-Programming/tree/master/0716-max-stack) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/yohanse/Competitive-Programming/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0850-insert-into-a-sorted-circular-linked-list](https://github.com/yohanse/Competitive-Programming/tree/master/0850-insert-into-a-sorted-circular-linked-list) |
 | [1582-design-browser-history](https://github.com/yohanse/Competitive-Programming/tree/master/1582-design-browser-history) |
@@ -758,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/yohanse/Competitive-Programming/tree/master/0173-binary-search-tree-iterator) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0678-valid-parenthesis-string](https://github.com/yohanse/Competitive-Programming/tree/master/0678-valid-parenthesis-string) |
+| [0716-max-stack](https://github.com/yohanse/Competitive-Programming/tree/master/0716-max-stack) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/yohanse/Competitive-Programming/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0931-maximum-frequency-stack](https://github.com/yohanse/Competitive-Programming/tree/master/0931-maximum-frequency-stack) |
@@ -773,12 +776,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0304-range-sum-query-2d-immutable](https://github.com/yohanse/Competitive-Programming/tree/master/0304-range-sum-query-2d-immutable) |
 | [0348-design-tic-tac-toe](https://github.com/yohanse/Competitive-Programming/tree/master/0348-design-tic-tac-toe) |
+| [0716-max-stack](https://github.com/yohanse/Competitive-Programming/tree/master/0716-max-stack) |
 | [0931-maximum-frequency-stack](https://github.com/yohanse/Competitive-Programming/tree/master/0931-maximum-frequency-stack) |
 | [1582-design-browser-history](https://github.com/yohanse/Competitive-Programming/tree/master/1582-design-browser-history) |
 | [2139-detect-squares](https://github.com/yohanse/Competitive-Programming/tree/master/2139-detect-squares) |
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0716-max-stack](https://github.com/yohanse/Competitive-Programming/tree/master/0716-max-stack) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/yohanse/Competitive-Programming/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [1582-design-browser-history](https://github.com/yohanse/Competitive-Programming/tree/master/1582-design-browser-history) |
 ## Data Stream

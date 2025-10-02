@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/yohanse/Competitive-Programming/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/yohanse/Competitive-Programming/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/yohanse/Competitive-Programming/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/yohanse/Competitive-Programming/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/yohanse/Competitive-Programming/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/yohanse/Competitive-Programming/tree/master/0200-number-of-islands) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/yohanse/Competitive-Programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/yohanse/Competitive-Programming/tree/master/0169-majority-element) |
 | [0348-design-tic-tac-toe](https://github.com/yohanse/Competitive-Programming/tree/master/0348-design-tic-tac-toe) |
 | [0387-first-unique-character-in-a-string](https://github.com/yohanse/Competitive-Programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/yohanse/Competitive-Programming/tree/master/0409-longest-palindrome) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/yohanse/Competitive-Programming/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/yohanse/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/yohanse/Competitive-Programming/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/yohanse/Competitive-Programming/tree/master/0169-majority-element) |
 | [0252-meeting-rooms](https://github.com/yohanse/Competitive-Programming/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0253-meeting-rooms-ii) |
 | [0274-h-index](https://github.com/yohanse/Competitive-Programming/tree/master/0274-h-index) |
@@ -710,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yohanse/Competitive-Programming/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/yohanse/Competitive-Programming/tree/master/0169-majority-element) |
 | [0372-super-pow](https://github.com/yohanse/Competitive-Programming/tree/master/0372-super-pow) |
 | [0493-reverse-pairs](https://github.com/yohanse/Competitive-Programming/tree/master/0493-reverse-pairs) |
 ## Merge Sort
@@ -727,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/yohanse/Competitive-Programming/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/yohanse/Competitive-Programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/yohanse/Competitive-Programming/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1140-distant-barcodes](https://github.com/yohanse/Competitive-Programming/tree/master/1140-distant-barcodes) |

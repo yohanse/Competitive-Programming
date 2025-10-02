@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0252-meeting-rooms](https://github.com/yohanse/Competitive-Programming/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0253-meeting-rooms-ii) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
+| [0256-paint-house](https://github.com/yohanse/Competitive-Programming/tree/master/0256-paint-house) |
 | [0269-alien-dictionary](https://github.com/yohanse/Competitive-Programming/tree/master/0269-alien-dictionary) |
 | [0274-h-index](https://github.com/yohanse/Competitive-Programming/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/yohanse/Competitive-Programming/tree/master/0300-longest-increasing-subsequence) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/yohanse/Competitive-Programming/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/yohanse/Competitive-Programming/tree/master/0174-dungeon-game) |
 | [0213-house-robber-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0213-house-robber-ii) |
+| [0256-paint-house](https://github.com/yohanse/Competitive-Programming/tree/master/0256-paint-house) |
 | [0300-longest-increasing-subsequence](https://github.com/yohanse/Competitive-Programming/tree/master/0300-longest-increasing-subsequence) |
 | [0333-largest-bst-subtree](https://github.com/yohanse/Competitive-Programming/tree/master/0333-largest-bst-subtree) |
 | [0354-russian-doll-envelopes](https://github.com/yohanse/Competitive-Programming/tree/master/0354-russian-doll-envelopes) |

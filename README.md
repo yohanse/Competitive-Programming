@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/yohanse/Competitive-Programming/tree/master/0952-word-subsets) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/yohanse/Competitive-Programming/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1080-camelcase-matching](https://github.com/yohanse/Competitive-Programming/tree/master/1080-camelcase-matching) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/yohanse/Competitive-Programming/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/yohanse/Competitive-Programming/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1508-longest-happy-prefix](https://github.com/yohanse/Competitive-Programming/tree/master/1508-longest-happy-prefix) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/yohanse/Competitive-Programming/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -751,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/yohanse/Competitive-Programming/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0931-maximum-frequency-stack](https://github.com/yohanse/Competitive-Programming/tree/master/0931-maximum-frequency-stack) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/yohanse/Competitive-Programming/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1582-design-browser-history](https://github.com/yohanse/Competitive-Programming/tree/master/1582-design-browser-history) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yohanse/Competitive-Programming/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/yohanse/Competitive-Programming/tree/master/3181-find-building-where-alice-and-bob-can-meet) |

@@ -694,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/yohanse/Competitive-Programming/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/yohanse/Competitive-Programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/yohanse/Competitive-Programming/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/yohanse/Competitive-Programming/tree/master/0328-odd-even-linked-list) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/yohanse/Competitive-Programming/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [1582-design-browser-history](https://github.com/yohanse/Competitive-Programming/tree/master/1582-design-browser-history) |
@@ -847,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/yohanse/Competitive-Programming/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/yohanse/Competitive-Programming/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/yohanse/Competitive-Programming/tree/master/0044-wildcard-matching) |
+| [0206-reverse-linked-list](https://github.com/yohanse/Competitive-Programming/tree/master/0206-reverse-linked-list) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/yohanse/Competitive-Programming/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0273-integer-to-english-words](https://github.com/yohanse/Competitive-Programming/tree/master/0273-integer-to-english-words) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/yohanse/Competitive-Programming/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |

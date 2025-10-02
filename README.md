@@ -702,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/yohanse/Competitive-Programming/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/yohanse/Competitive-Programming/tree/master/0328-odd-even-linked-list) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/yohanse/Competitive-Programming/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
+| [0850-insert-into-a-sorted-circular-linked-list](https://github.com/yohanse/Competitive-Programming/tree/master/0850-insert-into-a-sorted-circular-linked-list) |
 | [1582-design-browser-history](https://github.com/yohanse/Competitive-Programming/tree/master/1582-design-browser-history) |
 ## Divide and Conquer
 |  |

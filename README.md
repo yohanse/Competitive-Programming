@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2548-destroy-sequential-targets](https://github.com/yohanse/Competitive-Programming/tree/master/2548-destroy-sequential-targets) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/yohanse/Competitive-Programming/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2574-count-subarrays-with-median-k](https://github.com/yohanse/Competitive-Programming/tree/master/2574-count-subarrays-with-median-k) |
+| [2597-cycle-length-queries-in-a-tree](https://github.com/yohanse/Competitive-Programming/tree/master/2597-cycle-length-queries-in-a-tree) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/yohanse/Competitive-Programming/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/yohanse/Competitive-Programming/tree/master/2633-minimum-cost-to-split-an-array) |
 | [2636-maximum-subsequence-score](https://github.com/yohanse/Competitive-Programming/tree/master/2636-maximum-subsequence-score) |
@@ -888,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/yohanse/Competitive-Programming/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/yohanse/Competitive-Programming/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/yohanse/Competitive-Programming/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2597-cycle-length-queries-in-a-tree](https://github.com/yohanse/Competitive-Programming/tree/master/2597-cycle-length-queries-in-a-tree) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/yohanse/Competitive-Programming/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3486-count-the-number-of-good-nodes](https://github.com/yohanse/Competitive-Programming/tree/master/3486-count-the-number-of-good-nodes) |
 ## Depth-First Search
@@ -943,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/yohanse/Competitive-Programming/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/yohanse/Competitive-Programming/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/yohanse/Competitive-Programming/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2597-cycle-length-queries-in-a-tree](https://github.com/yohanse/Competitive-Programming/tree/master/2597-cycle-length-queries-in-a-tree) |
 ## Topological Sort
 |  |
 | ------- |

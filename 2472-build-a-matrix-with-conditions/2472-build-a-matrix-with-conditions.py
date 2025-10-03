@@ -1,57 +1,57 @@
 class Solution:
+    def topological_sort_order(self, vertex, color, graph, order):
+        if color[vertex] == 1:
+            return False, []
+        
+        
+        color[vertex] = 1
+        for adjvertex in graph[vertex]:
+            if color[adjvertex] != 2:
+                if not self.topological_sort_order(adjvertex, color, graph, order)[0]:
+                    return False, []
+        order.append(vertex)
+        color[vertex] = 2
+        return True, order
+
     def buildMatrix(self, k: int, rowConditions: List[List[int]], colConditions: List[List[int]]) -> List[List[int]]:
-        rowConditions = list(set([(a, b) for a, b in rowConditions]))
-        colConditions = list(set([(a, b) for a, b in colConditions]))
+        row_graph = [[] for _ in range(k)]
+        row_color = [0 for _ in range(k)]
+        row_order = []
 
-        incoming_row = [0 for i in range(k)]
-        incoming_col = [0 for i in range(k)]
-        graph_row = [[] for i in range(k)]
-        graph_col = [[] for i in range(k)]
+        col_graph = [[] for _ in range(k)]
+        col_color = [0 for _ in range(k)]
+        col_order = []
 
-        for a, b in rowConditions:
-            a, b = a - 1, b - 1
-            incoming_row[b] += 1
-            graph_row[a].append(b)
+        for u, v in rowConditions:
+            row_graph[v - 1].append(u - 1)
+
+        for u, v in colConditions:
+            col_graph[v - 1].append(u - 1)
         
-        for a, b in colConditions:
-            a, b = a - 1, b - 1
-            incoming_col[b] += 1
-            graph_col[a].append(b)
+        for i in range(k):
+            if row_color[i] == 0:
+                is_topo, order = self.topological_sort_order(i, row_color, row_graph, [])
+                
+                if not is_topo:
+                    return []
+                
+                for v in order:
+                    row_order.append(v)
         
+        for i in range(k):
+            if col_color[i] == 0:
+                is_topo, order = self.topological_sort_order(i, col_color, col_graph, [])
+                if not is_topo:
+                    return []
+                
+                for v in order:
+                    col_order.append(v)
         
-        row = [0 for i in range(k)]
-        index = 0
+        matrix = [[0 for _ in range(k)] for _ in range(k)]
         for i in range(k):
-            if not incoming_row[i]:
-                q = deque([i])
-                while q:
-                    vertex = q.popleft()
-                    row[vertex] = index
-                    index += 1
-                    for adjvertex in graph_row[vertex]:
-                        incoming_row[adjvertex] -= 1
-                        if not incoming_row[adjvertex]:
-                            incoming_row[adjvertex] -= 1
-                            q.append(adjvertex)
-        if index != k:
-            return []
-        col = [0 for i in range(k)]
-        index = 0
-        for i in range(k):
-            if not incoming_col[i]:
-                q = deque([i])
-                while q:
-                    vertex = q.popleft()
-                    col[vertex] = index
-                    index += 1
-                    for adjvertex in graph_col[vertex]:
-                        incoming_col[adjvertex] -= 1
-                        if not incoming_col[adjvertex]:
-                            incoming_col[adjvertex] -= 1
-                            q.append(adjvertex)
-        if index != k:
-            return []
-        matrix = [[0 for i in range(k)] for i in range(k)]
-        for i in range(k):
-            matrix[row[i]][col[i]] = i + 1
+            for j in range(k):
+                if row_order[i] == col_order[j]:
+                    matrix[i][j] = 1 + row_order[i]
         return matrix
+        
+        

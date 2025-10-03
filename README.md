@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/yohanse/Competitive-Programming/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/yohanse/Competitive-Programming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/yohanse/Competitive-Programming/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
+| [1876-map-of-highest-peak](https://github.com/yohanse/Competitive-Programming/tree/master/1876-map-of-highest-peak) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/yohanse/Competitive-Programming/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2066-add-minimum-number-of-rungs](https://github.com/yohanse/Competitive-Programming/tree/master/2066-add-minimum-number-of-rungs) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/yohanse/Competitive-Programming/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0833-bus-routes](https://github.com/yohanse/Competitive-Programming/tree/master/0833-bus-routes) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/yohanse/Competitive-Programming/tree/master/0895-shortest-path-to-get-all-keys) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/yohanse/Competitive-Programming/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1876-map-of-highest-peak](https://github.com/yohanse/Competitive-Programming/tree/master/1876-map-of-highest-peak) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/yohanse/Competitive-Programming/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Union Find
 |  |
@@ -693,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/yohanse/Competitive-Programming/tree/master/1022-unique-paths-iii) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/yohanse/Competitive-Programming/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/yohanse/Competitive-Programming/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
+| [1876-map-of-highest-peak](https://github.com/yohanse/Competitive-Programming/tree/master/1876-map-of-highest-peak) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/yohanse/Competitive-Programming/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/yohanse/Competitive-Programming/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2472-build-a-matrix-with-conditions](https://github.com/yohanse/Competitive-Programming/tree/master/2472-build-a-matrix-with-conditions) |

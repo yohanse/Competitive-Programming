@@ -1,54 +1,66 @@
-class Disjoint:
+class DisjointSet:
     def __init__(self, n):
         self.parent = [i for i in range(n)]
-        self.rank = [0 for i in range(n)]
+        self.rank = [0 for _ in range(n)]
+        self.n = n
     
-    def union(self, a, b):
-        parent_a, parent_b = self.find(a), self.find(b)
-        if parent_a != parent_b:
-            if self.rank[parent_a] > self.rank[parent_b]:
-                self.rank[parent_a] += 1
-                self.parent[parent_b] = parent_a
+    def union(self, u, v):
+        parent_u = self.find(u)
+        parent_v = self.find(v)
+
+        if parent_u != parent_v:
+            if self.rank[parent_u] == self.rank[parent_v]:
+                self.rank[parent_u] += 1
+
+            if self.rank[parent_u] > self.rank[parent_v]:
+                self.parent[parent_v] = parent_u
             else:
-                self.rank[parent_b] += 1
-                self.parent[parent_a] = parent_b
-            return False
-        return True
-
-    def find(self, a):
-        if a != self.parent[a]:
-            self.parent[a] = self.find(self.parent[a])
-        return self.parent[a]
+                self.parent[parent_u] = parent_v
     
+    def find(self, u):
+        if u == self.parent[u]:
+            return u
+        
+        self.parent[u] = self.find(self.parent[u])
+        return self.parent[u]
+    
+    def is_connected(self, u, v):
+        return self.find(u) == self.find(v)
 
-
+    def all_connected(self):
+        parent = self.find(0)
+        for i in range(1, self.n):
+            if self.find(i) != parent:
+                return False
+        return True
 
 class Solution:
     def maxNumEdgesToRemove(self, n: int, edges: List[List[int]]) -> int:
-        edges.sort(reverse=True)
+        alice_disjoint_set = DisjointSet(n)
+        bob_disjoint_set = DisjointSet(n)
 
-        disjoint_1 = Disjoint(n)
-        disjoint_2 = Disjoint(n)
+        edges.sort(key=lambda x: -x[0])
 
-        count = 0
-        for c, b, a in edges:
-            a, b = a - 1, b - 1
+        removed_edges = 0
+        for typ, u, v in edges:
+            u, v = u - 1, v - 1
+            is_alice_connected = alice_disjoint_set.is_connected(u, v)
+            is_bob_connected = bob_disjoint_set.is_connected(u, v)
+
+            is_edge_used = False
+
+            if typ != 1 and is_alice_connected == False:
+                alice_disjoint_set.union(u, v)
+                is_edge_used = True
             
-            if c == 3: 
-                r1, r2 = disjoint_1.union(a, b), disjoint_2.union(a, b)
-                count += (r1 and r2)
+            if typ != 2 and is_bob_connected == False:
+                bob_disjoint_set.union(u, v)
+                is_edge_used = True
+            
+            if not is_edge_used:
+                removed_edges += 1
+        if alice_disjoint_set.all_connected() and bob_disjoint_set.all_connected():
+            return removed_edges
+        return -1
 
-            if c == 2 and disjoint_1.union(a, b):
-                count += 1
-
-            if c == 1 and disjoint_2.union(a, b):
-                count += 1 
-
-        for i in range(n):
-            disjoint_1.find(i)
-            disjoint_2.find(i)
-        
-        if len(set(disjoint_1.parent)) != 1 or len(set(disjoint_2.parent)) != 1:
-            return -1
-        return count
         

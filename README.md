@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/yohanse/Competitive-Programming/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3518-maximum-multiplication-score](https://github.com/yohanse/Competitive-Programming/tree/master/3518-maximum-multiplication-score) |
 | [3534-count-almost-equal-pairs-i](https://github.com/yohanse/Competitive-Programming/tree/master/3534-count-almost-equal-pairs-i) |
+| [3699-count-special-subsequences](https://github.com/yohanse/Competitive-Programming/tree/master/3699-count-special-subsequences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yohanse/Competitive-Programming/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3534-count-almost-equal-pairs-i](https://github.com/yohanse/Competitive-Programming/tree/master/3534-count-almost-equal-pairs-i) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/yohanse/Competitive-Programming/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3699-count-special-subsequences](https://github.com/yohanse/Competitive-Programming/tree/master/3699-count-special-subsequences) |
 ## Math
 |  |
 | ------- |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/yohanse/Competitive-Programming/tree/master/3201-distribute-candies-among-children-ii) |
 | [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/yohanse/Competitive-Programming/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/yohanse/Competitive-Programming/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
+| [3699-count-special-subsequences](https://github.com/yohanse/Competitive-Programming/tree/master/3699-count-special-subsequences) |
 ## Simulation
 |  |
 | ------- |
@@ -870,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/yohanse/Competitive-Programming/tree/master/3201-distribute-candies-among-children-ii) |
 | [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/yohanse/Competitive-Programming/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3534-count-almost-equal-pairs-i](https://github.com/yohanse/Competitive-Programming/tree/master/3534-count-almost-equal-pairs-i) |
+| [3699-count-special-subsequences](https://github.com/yohanse/Competitive-Programming/tree/master/3699-count-special-subsequences) |
 ## Recursion
 |  |
 | ------- |

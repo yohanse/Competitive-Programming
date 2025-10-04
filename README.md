@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/yohanse/Competitive-Programming/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/yohanse/Competitive-Programming/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/yohanse/Competitive-Programming/tree/master/0135-candy) |
 | [0140-word-break-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/yohanse/Competitive-Programming/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/yohanse/Competitive-Programming/tree/master/0169-majority-element) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/yohanse/Competitive-Programming/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/yohanse/Competitive-Programming/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/yohanse/Competitive-Programming/tree/master/0135-candy) |
 | [0253-meeting-rooms-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0253-meeting-rooms-ii) |
 | [0330-patching-array](https://github.com/yohanse/Competitive-Programming/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/yohanse/Competitive-Programming/tree/master/0409-longest-palindrome) |

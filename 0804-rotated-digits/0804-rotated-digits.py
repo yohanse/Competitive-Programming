@@ -1,22 +1,20 @@
 class Solution:
     def rotatedDigits(self, n: int) -> int:
+        dp = [0 for _ in range(max(n + 1, 11))]
+        dp[2] = dp[5] = dp[6] = dp[9] = 1
+        dp[4] = dp[7] = dp[3] = -1
         count = 0
-
         for num in range(1, n + 1):
-            is_different = False
-            is_valid = True
+            quotient, reminder = num // 10, num%10
 
-            while num:
-                digit = num%10
-
-                if digit in [3, 4, 7]:
-                    is_valid = False
-                
-                if digit in [2, 5, 6, 9]:
-                    is_different = True
-                
-                num //= 10
+            if dp[quotient] == -1 or dp[reminder] == -1:
+                dp[num] = -1
             
-            if is_valid and is_different:
+            elif dp[quotient] == 1 or dp[reminder] == 1:
+                dp[num] = 1
                 count += 1
+            else:
+                dp[num] = 0
+            
+
         return count

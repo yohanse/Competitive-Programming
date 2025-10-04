@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/yohanse/Competitive-Programming/tree/master/0542-01-matrix) |
 | [0552-student-attendance-record-ii](https://github.com/yohanse/Competitive-Programming/tree/master/0552-student-attendance-record-ii) |
 | [0678-valid-parenthesis-string](https://github.com/yohanse/Competitive-Programming/tree/master/0678-valid-parenthesis-string) |
+| [0804-rotated-digits](https://github.com/yohanse/Competitive-Programming/tree/master/0804-rotated-digits) |
 | [0831-largest-sum-of-averages](https://github.com/yohanse/Competitive-Programming/tree/master/0831-largest-sum-of-averages) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/yohanse/Competitive-Programming/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/yohanse/Competitive-Programming/tree/master/0962-flip-string-to-monotone-increasing) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/yohanse/Competitive-Programming/tree/master/0477-total-hamming-distance) |
 | [0556-next-greater-element-iii](https://github.com/yohanse/Competitive-Programming/tree/master/0556-next-greater-element-iii) |
 | [0593-valid-square](https://github.com/yohanse/Competitive-Programming/tree/master/0593-valid-square) |
+| [0804-rotated-digits](https://github.com/yohanse/Competitive-Programming/tree/master/0804-rotated-digits) |
 | [0903-implement-rand10-using-rand7](https://github.com/yohanse/Competitive-Programming/tree/master/0903-implement-rand10-using-rand7) |
 | [0912-random-pick-with-weight](https://github.com/yohanse/Competitive-Programming/tree/master/0912-random-pick-with-weight) |
 | [0913-random-flip-matrix](https://github.com/yohanse/Competitive-Programming/tree/master/0913-random-flip-matrix) |

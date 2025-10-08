@@ -1,15 +1,17 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        ans=[]
-        table=[]
-        for i in range(len(strs)):
-            letter=[0]*26
-            for j in strs[i]:
-                letter[ord(j)-97]+=1
-            if letter in table:
-                p=table.index(letter)
-                ans[p].append(strs[i])
-            else:
-                ans.append([strs[i]])
-                table.append(letter)
-        return ans
+        previous_count = {}
+
+        for word in strs:
+            letters = [0 for _ in range(26)]
+            for char in word:
+                letters[ord(char) - ord("a")] += 1
+            
+            tuple_letters = tuple(letters)
+            if tuple_letters not in previous_count:
+                previous_count[tuple_letters] = []
+            
+            previous_count[tuple_letters].append(word)
+        
+        
+        return list(previous_count.values())

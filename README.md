@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2139-detect-squares](https://github.com/yohanse/Competitive-Programming/tree/master/2139-detect-squares) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/yohanse/Competitive-Programming/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/yohanse/Competitive-Programming/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/yohanse/Competitive-Programming/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/yohanse/Competitive-Programming/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/yohanse/Competitive-Programming/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2472-build-a-matrix-with-conditions](https://github.com/yohanse/Competitive-Programming/tree/master/2472-build-a-matrix-with-conditions) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/yohanse/Competitive-Programming/tree/master/1404-print-immutable-linked-list-in-reverse) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/yohanse/Competitive-Programming/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/yohanse/Competitive-Programming/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/yohanse/Competitive-Programming/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yohanse/Competitive-Programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/yohanse/Competitive-Programming/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/yohanse/Competitive-Programming/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/yohanse/Competitive-Programming/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/yohanse/Competitive-Programming/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/yohanse/Competitive-Programming/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/yohanse/Competitive-Programming/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/yohanse/Competitive-Programming/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/yohanse/Competitive-Programming/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2665-minimum-time-to-repair-cars](https://github.com/yohanse/Competitive-Programming/tree/master/2665-minimum-time-to-repair-cars) |
@@ -632,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/yohanse/Competitive-Programming/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1466-jump-game-v](https://github.com/yohanse/Competitive-Programming/tree/master/1466-jump-game-v) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/yohanse/Competitive-Programming/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/yohanse/Competitive-Programming/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/yohanse/Competitive-Programming/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yohanse/Competitive-Programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/yohanse/Competitive-Programming/tree/master/2497-maximum-matching-of-players-with-trainers) |

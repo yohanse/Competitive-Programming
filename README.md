@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-count-subarrays-with-median-k](https://github.com/yohanse/Competitive-Programming/tree/master/2574-count-subarrays-with-median-k) |
 | [2597-cycle-length-queries-in-a-tree](https://github.com/yohanse/Competitive-Programming/tree/master/2597-cycle-length-queries-in-a-tree) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/yohanse/Competitive-Programming/tree/master/2600-maximum-tastiness-of-candy-basket) |
+| [2601-number-of-great-partitions](https://github.com/yohanse/Competitive-Programming/tree/master/2601-number-of-great-partitions) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/yohanse/Competitive-Programming/tree/master/2633-minimum-cost-to-split-an-array) |
 | [2636-maximum-subsequence-score](https://github.com/yohanse/Competitive-Programming/tree/master/2636-maximum-subsequence-score) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/yohanse/Competitive-Programming/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-number-of-ways-to-select-buildings](https://github.com/yohanse/Competitive-Programming/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2444-longest-ideal-subsequence](https://github.com/yohanse/Competitive-Programming/tree/master/2444-longest-ideal-subsequence) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/yohanse/Competitive-Programming/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
+| [2601-number-of-great-partitions](https://github.com/yohanse/Competitive-Programming/tree/master/2601-number-of-great-partitions) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/yohanse/Competitive-Programming/tree/master/2633-minimum-cost-to-split-an-array) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/yohanse/Competitive-Programming/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2848-special-permutations](https://github.com/yohanse/Competitive-Programming/tree/master/2848-special-permutations) |

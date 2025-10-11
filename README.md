@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/yohanse/Competitive-Programming/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/yohanse/Competitive-Programming/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yohanse/Competitive-Programming/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/yohanse/Competitive-Programming/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/yohanse/Competitive-Programming/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/yohanse/Competitive-Programming/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3518-maximum-multiplication-score](https://github.com/yohanse/Competitive-Programming/tree/master/3518-maximum-multiplication-score) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/yohanse/Competitive-Programming/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/yohanse/Competitive-Programming/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/yohanse/Competitive-Programming/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/yohanse/Competitive-Programming/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/yohanse/Competitive-Programming/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Trie
 |  |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/yohanse/Competitive-Programming/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/yohanse/Competitive-Programming/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/yohanse/Competitive-Programming/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/yohanse/Competitive-Programming/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3318-maximum-number-of-operations-with-the-same-score-ii](https://github.com/yohanse/Competitive-Programming/tree/master/3318-maximum-number-of-operations-with-the-same-score-ii) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/yohanse/Competitive-Programming/tree/master/3391-maximum-difference-score-in-a-grid) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/yohanse/Competitive-Programming/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/yohanse/Competitive-Programming/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/yohanse/Competitive-Programming/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/yohanse/Competitive-Programming/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3518-maximum-multiplication-score](https://github.com/yohanse/Competitive-Programming/tree/master/3518-maximum-multiplication-score) |
@@ -466,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/yohanse/Competitive-Programming/tree/master/3395-minimum-length-of-anagram-concatenation) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/yohanse/Competitive-Programming/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yohanse/Competitive-Programming/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/yohanse/Competitive-Programming/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3534-count-almost-equal-pairs-i](https://github.com/yohanse/Competitive-Programming/tree/master/3534-count-almost-equal-pairs-i) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/yohanse/Competitive-Programming/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3699-count-special-subsequences](https://github.com/yohanse/Competitive-Programming/tree/master/3699-count-special-subsequences) |
@@ -645,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/yohanse/Competitive-Programming/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/yohanse/Competitive-Programming/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3107-maximum-spending-after-buying-items](https://github.com/yohanse/Competitive-Programming/tree/master/3107-maximum-spending-after-buying-items) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/yohanse/Competitive-Programming/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3534-count-almost-equal-pairs-i](https://github.com/yohanse/Competitive-Programming/tree/master/3534-count-almost-equal-pairs-i) |
 ## Heap (Priority Queue)
 |  |
@@ -763,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/yohanse/Competitive-Programming/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/yohanse/Competitive-Programming/tree/master/3395-minimum-length-of-anagram-concatenation) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/yohanse/Competitive-Programming/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/yohanse/Competitive-Programming/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3534-count-almost-equal-pairs-i](https://github.com/yohanse/Competitive-Programming/tree/master/3534-count-almost-equal-pairs-i) |
 ## Backtracking
 |  |

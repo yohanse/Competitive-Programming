@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1479-construct-target-array-with-multiple-sums](https://github.com/yohanse/Competitive-Programming/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/yohanse/Competitive-Programming/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1582-design-browser-history](https://github.com/yohanse/Competitive-Programming/tree/master/1582-design-browser-history) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yohanse/Competitive-Programming/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1622-max-value-of-equation](https://github.com/yohanse/Competitive-Programming/tree/master/1622-max-value-of-equation) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/yohanse/Competitive-Programming/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/yohanse/Competitive-Programming/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/yohanse/Competitive-Programming/tree/master/0952-word-subsets) |
 | [1038-number-of-squareful-arrays](https://github.com/yohanse/Competitive-Programming/tree/master/1038-number-of-squareful-arrays) |
 | [1140-distant-barcodes](https://github.com/yohanse/Competitive-Programming/tree/master/1140-distant-barcodes) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yohanse/Competitive-Programming/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/yohanse/Competitive-Programming/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/yohanse/Competitive-Programming/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/yohanse/Competitive-Programming/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
@@ -765,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/yohanse/Competitive-Programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/yohanse/Competitive-Programming/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1140-distant-barcodes](https://github.com/yohanse/Competitive-Programming/tree/master/1140-distant-barcodes) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yohanse/Competitive-Programming/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2139-detect-squares](https://github.com/yohanse/Competitive-Programming/tree/master/2139-detect-squares) |
 | [2548-destroy-sequential-targets](https://github.com/yohanse/Competitive-Programming/tree/master/2548-destroy-sequential-targets) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/yohanse/Competitive-Programming/tree/master/2633-minimum-cost-to-split-an-array) |

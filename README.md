@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2444-longest-ideal-subsequence](https://github.com/yohanse/Competitive-Programming/tree/master/2444-longest-ideal-subsequence) |
 | [2632-apply-bitwise-operations-to-make-strings-equal](https://github.com/yohanse/Competitive-Programming/tree/master/2632-apply-bitwise-operations-to-make-strings-equal) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/yohanse/Competitive-Programming/tree/master/3046-minimum-operations-to-make-a-special-number) |
+| [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/yohanse/Competitive-Programming/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/yohanse/Competitive-Programming/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/yohanse/Competitive-Programming/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3297-minimum-time-to-revert-word-to-initial-state-i](https://github.com/yohanse/Competitive-Programming/tree/master/3297-minimum-time-to-revert-word-to-initial-state-i) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/yohanse/Competitive-Programming/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2848-special-permutations](https://github.com/yohanse/Competitive-Programming/tree/master/2848-special-permutations) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/yohanse/Competitive-Programming/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/yohanse/Competitive-Programming/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/yohanse/Competitive-Programming/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/yohanse/Competitive-Programming/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/yohanse/Competitive-Programming/tree/master/3209-minimum-number-of-coins-for-fruits) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2633-minimum-cost-to-split-an-array](https://github.com/yohanse/Competitive-Programming/tree/master/2633-minimum-cost-to-split-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/yohanse/Competitive-Programming/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2832-find-the-longest-equal-subarray](https://github.com/yohanse/Competitive-Programming/tree/master/2832-find-the-longest-equal-subarray) |
+| [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/yohanse/Competitive-Programming/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/yohanse/Competitive-Programming/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3265-maximum-good-subarray-sum](https://github.com/yohanse/Competitive-Programming/tree/master/3265-maximum-good-subarray-sum) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/yohanse/Competitive-Programming/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -779,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2139-detect-squares](https://github.com/yohanse/Competitive-Programming/tree/master/2139-detect-squares) |
 | [2548-destroy-sequential-targets](https://github.com/yohanse/Competitive-Programming/tree/master/2548-destroy-sequential-targets) |
 | [2633-minimum-cost-to-split-an-array](https://github.com/yohanse/Competitive-Programming/tree/master/2633-minimum-cost-to-split-an-array) |
+| [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/yohanse/Competitive-Programming/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/yohanse/Competitive-Programming/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3395-minimum-length-of-anagram-concatenation](https://github.com/yohanse/Competitive-Programming/tree/master/3395-minimum-length-of-anagram-concatenation) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/yohanse/Competitive-Programming/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
